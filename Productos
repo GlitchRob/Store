@@ -16,5 +16,12 @@
     "category": "Abarrotes",
     "date": "2025-05-19",
     "price": "12.86"
+  },
+  {
+    "code": 12,
+    "image": "https://imgs.search.brave.com/9c97joft5RIFITlT6tC5K_TWItKs-jXS-eWuag_ivCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21l/cmNpYWx0cmV2aW5",
+    "name": "Coca-Cola 600 ml",
+    "category": "Abarrotes",
+    "price": "20"
   }
 ]
