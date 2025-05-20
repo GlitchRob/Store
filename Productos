@@ -1,37 +1,90 @@
 [
   {
-    "id": 14,
-    "image": "https://imgs.search.brave.com/s-bN_cnJ4mL2kXTBCuPKsJmEz1qIS1x9BEb5Qz_Af6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS5teC9zYW1z/bXgvaW1hZ2VzL3By/b2R1Y3QtaW1hZ2Vz/L2ltZ19sYXJnZS85/ODAwMTMyMTlsLmpw/Zz9vZG5IZWlnaHQ9/NjEyJm9kbldpZHRo/PTYxMiZvZG5CZz1G/RkZGRkY",
-    "name": "Artesano BIMBO ",
-    "description_": "Pan Bimbo Artesano BIMBO ",
-    "category": "Abarrotes",
-    "date": "2025-05-19",
-    "price": "59"
-  },
-  {
-    "code": 10,
+    "code": 17,
     "image": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU",
-    "name": "Fresca 600 ML",
-    "description": "Frescas de 600ml",
+    "name": "Fresca 600 ml",
+    "description_": "Refresco sabor toronja",
     "category": "Abarrotes",
-    "date": "2025-05-19",
-    "price": "25.90"
-  },
-  {
-    "code": 11,
-    "image": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU",
-    "name": "Fresca",
-    "description": "Test",
-    "category": "Abarrotes",
-    "date": "2025-05-19",
-    "price": "12.86"
-  },
-  {
-    "code": 12,
-    "image": "https://imgs.search.brave.com/9c97joft5RIFITlT6tC5K_TWItKs-jXS-eWuag_ivCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21l/cmNpYWx0cmV2aW5v/LmNvbS9pbWFnZXMv/ODExLmpwZz91PTE3/NDAxODA4OTc",
-    "name": "Coca-Cola 600 ml",
-    "category": "Abarrotes",
-    "date": "2025-05-19",
     "price": "20"
+  },
+  {
+    "code": 16,
+    "image": "https://imgs.search.brave.com/g_SK7ORe-_NkqBOwFF8eIKbBpPGSLmIH6wLPJh9N8gQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEreDgwRkY1WEwu/anBn",
+    "name": "Pan blanco Bimbo",
+    "description_": "Pan blanco Bimbo",
+    "category": "Abarrotes",
+    "price": "46"
+  },
+  {
+    "code": 18,
+    "image": "https://imgs.search.brave.com/-kHGBPVtm_7rccBSTjTV_5AijZFtWmq51rV2ro5Vfn0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS5teC9nci9p/bWFnZXMvcHJvZHVj/dC1pbWFnZXMvaW1n/X2xhcmdlLzAwNzUw/NjQ5NTAwNDczTC5q/cGc_b2RuSGVpZ2h0/PTU4MCZvZG5XaWR0/aD01ODAmb2RuQmc9/RkZGRkZG",
+    "name": "Hielo Grat Value",
+    "description_": "Bolsa de hielo de agua purificada Grat Value",
+    "category": "Congelados",
+    "price": "36"
+  },
+  {
+    "code": 19,
+    "image": "https://imgs.search.brave.com/TFNPbeiiMsn_m8tbKWx5q-n3TLCgdDsMO3c6y5euFC8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcmlxcmEvaW1h/Z2UvdXBsb2FkL3df/OTA2LGhfOTA2LGNf/Zml0LHFfYXV0byxm/X2F1dG8vdjE2Nzg4/MTEyNTMvc2VsbGVy/cy8zL3Zhbjhma3Np/eGNhemw4YXppZGdk/LmpwZw",
+    "name": "Fanta 600 ml",
+    "description_": "Refresco sabor naranja gasificada",
+    "category": "Abarrotes",
+    "price": "20"
+  },
+  {
+    "code": 20,
+    "image": "",
+    "name": "Coca-Cola 600 ml",
+    "description_": "Refresco sabor cola",
+    "category": "Abarrotes",
+    "price": "20"
+  },
+  {
+    "code": 21,
+    "image": "",
+    "name": "Embasa Catsup",
+    "description_": "Catsup",
+    "category": "Abarrotes",
+    "price": "23"
+  },
+  {
+    "code": 22,
+    "image": "",
+    "name": "Crema acida lala 460g",
+    "description_": "Crema acida lala 460g",
+    "category": "Lácteos",
+    "price": "26"
+  },
+  {
+    "code": 23,
+    "image": "",
+    "name": "Mayonesa McCormick 850 g",
+    "description_": "Mayonesa McCormick 850 g",
+    "category": "Abarrotes",
+    "price": "89"
+  },
+  {
+    "code": 24,
+    "image": "",
+    "name": "Jalapeños Enteros La Costeña 86g",
+    "description_": "Jalapeños Enteros La Costeña 86g",
+    "category": "Abarrotes",
+    "price": "39"
+  },
+  {
+    "code": 25,
+    "image": "",
+    "name": "Sal la fina",
+    "description_": "Sal yodada",
+    "category": "Abarrotes",
+    "price": "83"
+  },
+  {
+    "code": 26,
+    "image": "",
+    "name": "Tang Uva",
+    "description_": "Polvo para preparar bebidas sabor uva",
+    "category": "Abarrotes",
+    "price": "5"
   }
 ]
