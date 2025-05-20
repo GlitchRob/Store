@@ -83,8 +83,40 @@
     "code": 26,
     "image": "",
     "name": "Tang Uva",
-    "description": "",
+    "description": "Polvo para preparar bebidas sabor uva ",
     "category": "Abarrotes",
     "price": "5"
+  },
+  {
+    "code": 27,
+    "image": "",
+    "name": "Aceite Vegetal 123 800 ml",
+    "description": "Aceite Vegetal 123",
+    "category": "Abarrotes",
+    "price": "36"
+  },
+  {
+    "code": 28,
+    "image": "",
+    "name": "Leche Lala 1.8L",
+    "description": "Leche entera Lala",
+    "category": "Lácteos",
+    "price": "36"
+  },
+  {
+    "code": 29,
+    "image": "",
+    "name": "Jabón de lavandería Lirio",
+    "description": "Jabón de lavandería Lirio",
+    "category": "Abarrotes",
+    "price": "23"
+  },
+  {
+    "code": 30,
+    "image": "",
+    "name": "Biberón Evenflo Sistema anti cólicos",
+    "description": "Biberón Evenflo Sistema anti cólicos",
+    "category": "Bebés",
+    "price": "50"
   }
 ]
