@@ -3,10 +3,11 @@
     "code": 16,
     "image": "https://imgs.search.brave.com/g_SK7ORe-_NkqBOwFF8eIKbBpPGSLmIH6wLPJh9N8gQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEreDgwRkY1WEwu/anBn",
     "name": "Pan blanco Bimbo",
-    "content": "650", "units": "g",
     "description": "Pan blanco Bimbo",
     "category": "Abarrotes",
-    "price": "46"
+    "price": "46",
+    "content": "645",
+    "units": "g"
   },
   {
     "code": 17,
@@ -14,7 +15,9 @@
     "name": "Fresca 600 ml",
     "description": "Refresco sabor toronja ",
     "category": "Abarrotes",
-    "price": "20"
+    "price": "20",
+    "content": "600",
+    "units": "ml"
   },
   {
     "code": 18,
@@ -22,7 +25,9 @@
     "name": "Hielo Grat Value",
     "description": "Hielo de agua purificada Great Value ",
     "category": "Congelados",
-    "price": "36"
+    "price": "36",
+    "content": "3.9",
+    "units": "k"
   },
   {
     "code": 19,
@@ -30,15 +35,19 @@
     "name": "Fanta 600 ml",
     "description": "Refresco sabor naranja ",
     "category": "Abarrotes",
-    "price": "20"
+    "price": "20",
+    "content": "600",
+    "units": "ml"
   },
   {
     "code": 20,
     "image": "https://comercialtrevino.com/images/811.jpg?u=1740180897",
-    "name": "Coca-Cola 600 ml",
+    "name": "Coca-Cola",
     "description": "Refresco sabor cola",
     "category": "Abarrotes",
-    "price": "20"
+    "price": "20",
+    "content": "600",
+    "units": "ml"
   },
   {
     "code": 21,
@@ -46,7 +55,9 @@
     "name": "Embasa Catsup 380g",
     "description": "Mezcla de tomates",
     "category": "Abarrotes",
-    "price": "23"
+    "price": "23",
+    "content": "380",
+    "units": "g"
   },
   {
     "code": 22,
@@ -54,7 +65,9 @@
     "name": "Crema acida lala 426g",
     "description": "Crema semi acida Lala",
     "category": "Lácteos",
-    "price": "26"
+    "price": "26",
+    "content": "426",
+    "units": "g"
   },
   {
     "code": 23,
@@ -62,23 +75,29 @@
     "name": "Mayonesa McCormick 870 g",
     "description": "Mayonesa McCormick con jugo de limónes ",
     "category": "Abarrotes",
-    "price": "89"
+    "price": "89",
+    "content": "870",
+    "units": "g"
   },
   {
     "code": 25,
     "image": "https://tiendascorpion.mayoreoenlinea.mx/cdn/shop/files/17013_1_3_430c1fb2-d3ee-4142-bd3a-fcb285374907.jpg?v=1747324770&width=1445",
-    "name": "Sal la fina 1k",
+    "name": "Sal la fina",
     "description": "Sal yodada La Fina ",
     "category": "Abarrotes",
-    "price": "83"
+    "price": "83",
+    "content": "1",
+    "units": "k"
   },
   {
     "code": 24,
     "image": "https://m.media-amazon.com/images/I/51RO8cDnACL.jpg",
-    "name": "Jalapeños Enteros La Costeña 220g",
+    "name": "Jalapeños Enteros La Costeña ",
     "description": "Chiles jalapeños enteros en vinagre ",
     "category": "Abarrotes",
-    "price": "39"
+    "price": "39",
+    "content": "220",
+    "units": "g"
   },
   {
     "code": 26,
@@ -86,23 +105,29 @@
     "name": "Tang Uva",
     "description": "Polvo para preparar bebidas sabor uva ",
     "category": "Abarrotes",
-    "price": "5"
+    "price": "5.90",
+    "content": "5",
+    "units": "g"
   },
   {
     "code": 27,
     "image": "https://www.superaki.mx/cdn/shop/files/7501026002304_140324_compact.jpg?v=1711982611",
-    "name": "Aceite Vegetal 123 800 ml",
+    "name": "Aceite Vegetal 123",
     "description": "Aceite Vegetal 123",
     "category": "Abarrotes",
-    "price": "36"
+    "price": "36",
+    "content": "800",
+    "units": "ml"
   },
   {
     "code": 28,
     "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750102054704L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    "name": "Leche Lala 1.8L",
+    "name": "Leche Lala ",
     "description": "Leche entera Lala ",
     "category": "Lácteos",
-    "price": "36"
+    "price": "36",
+    "content": "1.8",
+    "units": "L"
   },
   {
     "code": 29,
@@ -110,7 +135,9 @@
     "name": "Jabón de lavandería Lirio",
     "description": "Jabón multiusos en barra",
     "category": "Abarrotes",
-    "price": "23"
+    "price": "23",
+    "content": "56",
+    "units": "g"
   },
   {
     "code": 30,
@@ -118,6 +145,8 @@
     "name": "Biberón Evenflo Sistema anti cólicos",
     "description": "Biberón Evenflo con novedoso sistema anti cólicos",
     "category": "Bebés",
-    "price": "50"
+    "price": "50",
+    "content": "220",
+    "units": "ml"
   }
 ]
