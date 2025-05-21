@@ -10,16 +10,6 @@
     "units": "g"
   },
   {
-    "code": 17,
-    "image": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU",
-    "name": "Fresca 600 ml",
-    "description": "Refresco sabor toronja ",
-    "category": "Abarrotes",
-    "price": "20",
-    "content": "600",
-    "units": "ml"
-  },
-  {
     "code": 18,
     "image": "https://imgs.search.brave.com/-kHGBPVtm_7rccBSTjTV_5AijZFtWmq51rV2ro5Vfn0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS5teC9nci9p/bWFnZXMvcHJvZHVj/dC1pbWFnZXMvaW1n/X2xhcmdlLzAwNzUw/NjQ5NTAwNDczTC5q/cGc_b2RuSGVpZ2h0/PTU4MCZvZG5XaWR0/aD01ODAmb2RuQmc9/RkZGRkZG",
     "name": "Hielo Grat Value",
@@ -32,7 +22,7 @@
   {
     "code": 19,
     "image": "https://imgs.search.brave.com/TFNPbeiiMsn_m8tbKWx5q-n3TLCgdDsMO3c6y5euFC8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcmlxcmEvaW1h/Z2UvdXBsb2FkL3df/OTA2LGhfOTA2LGNf/Zml0LHFfYXV0byxm/X2F1dG8vdjE2Nzg4/MTEyNTMvc2VsbGVy/cy8zL3Zhbjhma3Np/eGNhemw4YXppZGdk/LmpwZw",
-    "name": "Fanta 600 ml",
+    "name": "Fanta",
     "description": "Refresco sabor naranja ",
     "category": "Abarrotes",
     "price": "20",
@@ -52,7 +42,7 @@
   {
     "code": 21,
     "image": "https://circulokmx.vtexassets.com/arquivos/ids/162702-800-auto?v=638138832938670000&width=800&height=auto&aspect=true",
-    "name": "Embasa Catsup 380g",
+    "name": "Embasa Catsup",
     "description": "Mezcla de tomates",
     "category": "Abarrotes",
     "price": "23",
@@ -62,7 +52,7 @@
   {
     "code": 22,
     "image": "https://res.cloudinary.com/riqra/image/upload/w_906,h_906,c_fit,q_auto,f_auto/v1678811220/sellers/3/pgnmumqdbcnebe69o4rc.jpg",
-    "name": "Crema acida lala 426g",
+    "name": "Crema acida lala",
     "description": "Crema semi acida Lala",
     "category": "Lácteos",
     "price": "26",
@@ -72,7 +62,7 @@
   {
     "code": 23,
     "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750100330631L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    "name": "Mayonesa McCormick 870 g",
+    "name": "Mayonesa McCormick",
     "description": "Mayonesa McCormick con jugo de limónes ",
     "category": "Abarrotes",
     "price": "89",
@@ -138,6 +128,16 @@
     "price": "23",
     "content": "56",
     "units": "g"
+  },
+  {
+    "code": 17,
+    "image": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU",
+    "name": "Fresca",
+    "description": "Refresco sabor toronja ",
+    "category": "Abarrotes",
+    "price": "20",
+    "content": "600",
+    "units": "ml"
   },
   {
     "code": 30,
