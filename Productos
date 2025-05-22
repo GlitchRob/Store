@@ -248,5 +248,514 @@
     "price": "99",
     "content": "18",
     "units": "Rollos"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Queso_Oaxaca.jpg",
+    "name": "Queso Oaxaca",
+    "description": "Queso fresco de leche de vaca, de textura fibrosa y suave sabor, originario del estado de Oaxaca.",
+    "category": "Lácteos",
+    "price": "85.00",
+    "content": "500 g",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mazap%C3%A1n_de_cacahuate.jpg",
+    "name": "Mazapán de cacahuate",
+    "description": "Dulce tradicional elaborado con cacahuate molido y azúcar, de textura suave y sabor dulce.",
+    "category": "Dulces típicos",
+    "price": "10.00",
+    "content": "28 g",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Valentina_salsa_picante.jpg",
+    "name": "Salsa Valentina",
+    "description": "Salsa picante de chile y especias, popular en botanas y antojitos mexicanos.",
+    "category": "Salsas",
+    "price": "25.00",
+    "content": "370 ml",
+    "units": "botella"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tequila_bottle.jpg",
+    "name": "Tequila Reposado",
+    "description": "Bebida alcohólica destilada del agave azul, reposada en barricas de roble.",
+    "category": "Bebidas alcohólicas",
+    "price": "350.00",
+    "content": "750 ml",
+    "units": "botella"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tortilla_de_ma%C3%ADz.jpg",
+    "name": "Tortillas de maíz",
+    "description": "Tortillas tradicionales elaboradas con masa de maíz nixtamalizado.",
+    "category": "Panadería",
+    "price": "15.00",
+    "content": "1 kg",
+    "units": "paquete"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alegr%C3%ADa_de_amaranto.jpg",
+    "name": "Alegría de amaranto",
+    "description": "Dulce tradicional hecho con semillas de amaranto y miel.",
+    "category": "Dulces típicos",
+    "price": "12.00",
+    "content": "30 g",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chiles_en_nogada.jpg",
+    "name": "Chiles en nogada",
+    "description": "Platillo típico poblano: chile poblano relleno de picadillo, cubierto con salsa de nuez y granada.",
+    "category": "Platillos preparados",
+    "price": "120.00",
+    "content": "1 pieza",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cervezas_mexicanas.jpg",
+    "name": "Cerveza artesanal mexicana",
+    "description": "Cerveza elaborada en microcervecerías mexicanas, variedad de estilos y sabores.",
+    "category": "Bebidas alcohólicas",
+    "price": "45.00",
+    "content": "355 ml",
+    "units": "botella"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chapulines_tostados.jpg",
+    "name": "Chapulines tostados",
+    "description": "Insectos comestibles tostados y sazonados, ricos en proteínas.",
+    "category": "Botanas",
+    "price": "60.00",
+    "content": "100 g",
+    "units": "bolsa"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jarabe_de_agave.jpg",
+    "name": "Jarabe de agave",
+    "description": "Endulzante natural extraído del agave, alternativa al azúcar.",
+    "category": "Endulzantes",
+    "price": "80.00",
+    "content": "500 ml",
+    "units": "frasco"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vanilla_pods.jpg",
+    "name": "Vainilla de Papantla",
+    "description": "Vainas de vainilla cultivadas en Papantla, Veracruz, con denominación de origen.",
+    "category": "Especias",
+    "price": "150.00",
+    "content": "50 g",
+    "units": "frasco"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Talavera_poblana.jpg",
+    "name": "Talavera poblana",
+    "description": "Cerámica artesanal decorada a mano, originaria de Puebla.",
+    "category": "Artesanías",
+    "price": "500.00",
+    "content": "1 pieza",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mole_poblano.jpg",
+    "name": "Mole poblano",
+    "description": "Salsa tradicional mexicana hecha con chiles, especias y chocolate.",
+    "category": "Salsas",
+    "price": "90.00",
+    "content": "500 g",
+    "units": "frasco"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pan_de_muerto.jpg",
+    "name": "Pan de muerto",
+    "description": "Pan dulce tradicional elaborado para el Día de Muertos.",
+    "category": "Panadería",
+    "price": "35.00",
+    "content": "1 pieza",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Papel_picado.jpg",
+    "name": "Papel picado",
+    "description": "Decoración tradicional mexicana hecha de papel recortado.",
+    "category": "Artesanías",
+    "price": "25.00",
+    "content": "10 piezas",
+    "units": "paquete"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mezcal_bottle.jpg",
+    "name": "Mezcal artesanal",
+    "description": "Bebida alcohólica destilada del agave, con sabor ahumado.",
+    "category": "Bebidas alcohólicas",
+    "price": "400.00",
+    "content": "750 ml",
+    "units": "botella"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Atole_de_chocolate.jpg",
+    "name": "Atole de chocolate",
+    "description": "Bebida caliente y espesa hecha con masa de maíz y chocolate.",
+    "category": "Bebidas tradicionales",
+    "price": "20.00",
+    "content": "355 ml",
+    "units": "vaso"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tamales_mexicanos.jpg",
+    "name": "Tamales mexicanos",
+    "description": "Masa de maíz rellena de diversos ingredientes, envuelta en hojas y cocida al vapor.",
+    "category": "Platillos preparados",
+    "price": "25.00",
+    "content": "1 pieza",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Guacamole.jpg",
+    "name": "Guacamole",
+    "description": "Salsa hecha a base de aguacate, jitomate, cebolla y chile.",
+    "category": "Salsas",
+    "price": "50.00",
+    "content": "250 g",
+    "units": "frasco"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Calaveras_de_az%C3%BAcar.jpg",
+    "name": "Calaveras de azúcar",
+    "description": "Dulces tradicionales decorados, elaborados para el Día de Muertos.",
+    "category": "Dulces típicos",
+    "price": "30.00",
+    "content": "1 pieza",
+    "units": "pieza"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jab%C3%B3n_Zote.jpg",
+    "name": "Jabón Zote",
+    "description": "Jabón de lavandería tradicional mexicano, conocido por su eficacia.",
+    "category": "Limpieza",
+    "price": "15.00",
+    "content": "400 g",
+    "units": "barra"
+  },
+  {
+    "name": "Azúcar estándar",
+    "description": "Endulzante común en la cocina mexicana.",
+    "category": "Despensa",
+    "price": "25.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Arroz blanco",
+    "description": "Grano básico en la alimentación diaria.",
+    "category": "Despensa",
+    "price": "20.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Frijol negro",
+    "description": "Leguminosa rica en proteínas y fibra.",
+    "category": "Despensa",
+    "price": "30.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Aceite vegetal comestible",
+    "description": "Aceite para cocinar y freír alimentos.",
+    "category": "Despensa",
+    "price": "35.00",
+    "content": "1 l",
+    "units": "botella"
+  },
+  {
+    "name": "Harina de maíz",
+    "description": "Ingrediente principal para tortillas.",
+    "category": "Despensa",
+    "price": "18.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Leche entera",
+    "description": "Bebida láctea rica en calcio.",
+    "category": "Lácteos",
+    "price": "22.00",
+    "content": "1 l",
+    "units": "tetrapak"
+  },
+  {
+    "name": "Huevos blancos",
+    "description": "Fuente de proteína animal.",
+    "category": "Refrigerados",
+    "price": "40.00",
+    "content": "12 piezas",
+    "units": "cartón"
+  },
+  {
+    "name": "Pan de caja blanco",
+    "description": "Pan suave ideal para sándwiches.",
+    "category": "Panadería",
+    "price": "30.00",
+    "content": "680 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Tortillas de maíz",
+    "description": "Base de muchos platillos mexicanos.",
+    "category": "Panadería",
+    "price": "15.00",
+    "content": "1 kg",
+    "units": "paquete"
+  },
+  {
+    "name": "Refresco cola",
+    "description": "Bebida carbonatada de sabor cola.",
+    "category": "Bebidas",
+    "price": "18.00",
+    "content": "600 ml",
+    "units": "botella"
+  },
+  {
+    "name": "Agua purificada",
+    "description": "Agua potable embotellada.",
+    "category": "Bebidas",
+    "price": "12.00",
+    "content": "1.5 l",
+    "units": "botella"
+  },
+  {
+    "name": "Cerveza clara",
+    "description": "Bebida alcohólica fermentada.",
+    "category": "Bebidas",
+    "price": "20.00",
+    "content": "355 ml",
+    "units": "botella"
+  },
+  {
+    "name": "Café soluble",
+    "description": "Bebida estimulante instantánea.",
+    "category": "Bebidas",
+    "price": "45.00",
+    "content": "100 g",
+    "units": "frasco"
+  },
+  {
+    "name": "Sopa instantánea",
+    "description": "Comida rápida y fácil de preparar.",
+    "category": "Despensa",
+    "price": "10.00",
+    "content": "64 g",
+    "units": "vaso"
+  },
+  {
+    "name": "Atún en agua",
+    "description": "Pescado enlatado listo para consumir.",
+    "category": "Enlatados",
+    "price": "15.00",
+    "content": "140 g",
+    "units": "lata"
+  },
+  {
+    "name": "Sardinas en tomate",
+    "description": "Pescado en salsa de tomate.",
+    "category": "Enlatados",
+    "price": "18.00",
+    "content": "155 g",
+    "units": "lata"
+  },
+  {
+    "name": "Chiles jalapeños en escabeche",
+    "description": "Chiles en conserva con vinagre.",
+    "category": "Enlatados",
+    "price": "20.00",
+    "content": "220 g",
+    "units": "lata"
+  },
+  {
+    "name": "Frijoles refritos enlatados",
+    "description": "Frijoles cocidos y molidos listos para calentar.",
+    "category": "Enlatados",
+    "price": "22.00",
+    "content": "430 g",
+    "units": "lata"
+  },
+  {
+    "name": "Puré de tomate",
+    "description": "Base para salsas y guisos.",
+    "category": "Despensa",
+    "price": "12.00",
+    "content": "210 g",
+    "units": "tetrapak"
+  },
+  {
+    "name": "Sal de mesa",
+    "description": "Condimento esencial en la cocina.",
+    "category": "Despensa",
+    "price": "8.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Pimienta negra molida",
+    "description": "Condimento común para dar sabor.",
+    "category": "Despensa",
+    "price": "18.00",
+    "content": "50 g",
+    "units": "frasco"
+  },
+  {
+    "name": "Mayonesa",
+    "description": "Aderezo a base de huevo y aceite.",
+    "category": "Despensa",
+    "price": "30.00",
+    "content": "390 g",
+    "units": "frasco"
+  },
+  {
+    "name": "Mostaza",
+    "description": "Aderezo amarillo con sabor fuerte.",
+    "category": "Despensa",
+    "price": "15.00",
+    "content": "250 g",
+    "units": "frasco"
+  },
+  {
+    "name": "Kétchup",
+    "description": "Salsa de tomate dulce usada como aderezo.",
+    "category": "Despensa",
+    "price": "20.00",
+    "content": "400 g",
+    "units": "frasco"
+  },
+  {
+    "name": "Caldo de pollo en cubos",
+    "description": "Condimento concentrado para sopas y guisos.",
+    "category": "Despensa",
+    "price": "14.00",
+    "content": "6 cubos",
+    "units": "caja"
+  },
+  {
+    "name": "Salsa picante",
+    "description": "Salsa con chiles para acompañar platillos.",
+    "category": "Despensa",
+    "price": "12.00",
+    "content": "120 ml",
+    "units": "botella"
+  },
+  {
+    "name": "Pan dulce (conchas)",
+    "description": "Pan tradicional azucarado mexicano.",
+    "category": "Panadería",
+    "price": "8.00",
+    "content": "1 pieza",
+    "units": "unidad"
+  },
+  {
+    "name": "Galletas Marías",
+    "description": "Galletas dulces básicas, ideales para postres.",
+    "category": "Panadería",
+    "price": "18.00",
+    "content": "170 g",
+    "units": "paquete"
+  },
+  {
+    "name": "Papas fritas",
+    "description": "Snack crujiente de papa salada.",
+    "category": "Botanas",
+    "price": "15.00",
+    "content": "45 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Chicharrón de cerdo",
+    "description": "Botana tradicional mexicana crujiente.",
+    "category": "Botanas",
+    "price": "22.00",
+    "content": "100 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Cacahuates enchilados",
+    "description": "Snack picante de maní tostado.",
+    "category": "Botanas",
+    "price": "20.00",
+    "content": "150 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Chicles",
+    "description": "Goma de mascar con diferentes sabores.",
+    "category": "Dulces",
+    "price": "10.00",
+    "content": "5 piezas",
+    "units": "paquete"
+  },
+  {
+    "name": "Caramelos surtidos",
+    "description": "Dulces duros con sabores variados.",
+    "category": "Dulces",
+    "price": "18.00",
+    "content": "150 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Chocolate Carlos V",
+    "description": "Barra de chocolate con leche.",
+    "category": "Dulces",
+    "price": "10.00",
+    "content": "20 g",
+    "units": "barra"
+  },
+  {
+    "name": "Té en bolsitas",
+    "description": "Infusión de hierbas y hojas secas.",
+    "category": "Bebidas",
+    "price": "25.00",
+    "content": "25 sobres",
+    "units": "caja"
+  },
+  {
+    "name": "Chocolate en polvo",
+    "description": "Mezcla para preparar bebidas de chocolate.",
+    "category": "Bebidas",
+    "price": "28.00",
+    "content": "220 g",
+    "units": "bolsa"
+  },
+  {
+    "name": "Detergente en polvo",
+    "description": "Jabón para lavar ropa.",
+    "category": "Limpieza",
+    "price": "25.00",
+    "content": "1 kg",
+    "units": "bolsa"
+  },
+  {
+    "name": "Jabón para trastes",
+    "description": "Líquido para lavar utensilios de cocina.",
+    "category": "Limpieza",
+    "price": "18.00",
+    "content": "640 ml",
+    "units": "botella"
+  },
+  {
+    "name": "Papel higiénico",
+    "description": "Papel suave de uso sanitario.",
+    "category": "Higiene",
+    "price": "25.00",
+    "content": "4 rollos",
+    "units": "paquete"
+  },
+  {
+    "name": "Pasta dental",
+    "description": "Crema para higiene bucal.",
+    "category": "Higiene",
+    "price": "22.00",
+    "content": "90 g",
+    "units": "tubo"
   }
 ]
