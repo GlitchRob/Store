@@ -148,5 +148,105 @@
     "price": "50",
     "content": "220",
     "units": "ml"
+  },
+  {
+    "code": 1,
+    "image": "",
+    "name": "D'Gary Gelatina de sabores",
+    "description": "Gelatina en polvo varios sabores",
+    "category": "Abarrotes",
+    "price": "10",
+    "content": "32",
+    "units": "g"
+  },
+  {
+    "code": 2,
+    "image": "",
+    "name": "Agua great value",
+    "description": "Agua purificada great value",
+    "category": "Abarrotes",
+    "price": "6.50",
+    "content": "2",
+    "units": "L"
+  },
+  {
+    "code": 3,
+    "image": "",
+    "name": "Coca cola retornable",
+    "description": "Coca cola de envase retornable, más barata",
+    "category": "Abarrotes",
+    "price": "30",
+    "content": "2.5",
+    "units": "L"
+  },
+  {
+    "code": 4,
+    "image": "",
+    "name": "Guantes",
+    "description": "",
+    "category": "Ferretería",
+    "price": "28.90",
+    "content": "1",
+    "units": "Par"
+  },
+  {
+    "code": 5,
+    "image": "",
+    "name": "Pepsi",
+    "description": "Refresco sabor cola",
+    "category": "Abarrotes",
+    "price": "20",
+    "content": "600",
+    "units": "ml"
+  },
+  {
+    "code": 6,
+    "image": "",
+    "name": "Agua Bonafont ",
+    "description": "Agua",
+    "category": "Abarrotes",
+    "price": "25",
+    "content": "2",
+    "units": "L"
+  },
+  {
+    "code": 4,
+    "image": "",
+    "name": "Coca-Cola",
+    "description": "Coca-Cola 4 pack ",
+    "category": "Abarrotes",
+    "price": "60",
+    "content": "4pack de 600",
+    "units": "ml"
+  },
+  {
+    "code": 5,
+    "image": "",
+    "name": "Maruchan",
+    "description": "Sopa instantánea Maruchan con camarón y chile abanero",
+    "category": "Abarrotes",
+    "price": "14.50",
+    "content": "42",
+    "units": "g"
+  },
+  {
+    "code": 6,
+    "image": "",
+    "name": "Carnation clavel",
+    "description": "Leche evaporada condensada carnation clavel",
+    "category": "Abarrotes",
+    "price": "45",
+    "content": "1",
+    "units": "L"
+  },
+  {
+    "code": 7,
+    "image": "",
+    "name": "Papel higiénico Great Value",
+    "description": "Papel higiénico Great Value de 24 rollos",
+    "category": "Abarrotes",
+    "price": "99",
+    "content": "18",
+    "units": "Rollos"
   }
 ]
