@@ -1,915 +1,147 @@
 [
   {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_973245-MLM51821857456_102022-F.webp",
-    "name": "Juego De Biberones Mágicos Que Desaparecen Para Bebés",
-    "description": "Biberones de juguete con líquido que desaparece al inclinarse.",
-    "category": "Biberones de Juguete",
-    "price": "87.20",
-    "marca": "Genérico",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Biberón De Bebé De Silicona Antiaflatulencia 8oz/240ml",
-    "description": "Biberón de silicona con sistema antiaflatulencia.",
-    "category": "Biberones Anticólicos",
-    "price": "189.60",
-    "marca": "Genérico",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Biberones Dr Browns Options Cuello Ancho 9 Oz 2 Piezas",
-    "description": "Biberones anticólicos de cuello ancho, paquete de 2.",
-    "category": "Biberones Anticólicos",
-    "price": "481.00",
-    "marca": "Dr. Brown's",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Set de Biberones Evenflo 150ml Flujo Lento 0m+ 2 Piezas",
-    "description": "Biberones de flujo lento para recién nacidos, paquete de 2.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "137.00",
-    "marca": "Evenflo",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Pack 5 Biberones Pigeon Softouch 240ml/8oz Anticólicos 3m+",
-    "description": "Paquete de 5 biberones anticólicos de 240ml.",
-    "category": "Biberones Anticólicos",
-    "price": "1,332.00",
-    "marca": "Pigeon",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete 4 Biberones Avent Decorados Nuevo Diseño De Tetina",
-    "description": "Paquete de 4 biberones Avent con nuevo diseño de tetina.",
-    "category": "Biberones Anticólicos",
-    "price": "1,195.00",
-    "marca": "Philips Avent",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Dr Brown's Paquete De Biberones Para Recién Nacido",
-    "description": "Paquete de biberones Dr Brown's para recién nacidos.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "1,099.00",
-    "marca": "Dr. Brown's",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete De Biberones Comotomo, Verde",
-    "description": "Paquete de biberones Comotomo de silicona, color verde.",
-    "category": "Biberones Anticólicos",
-    "price": "2,499.00",
-    "marca": "Comotomo",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete De 4 Biberones Dr. Browns: 2 De 8 Oz Y 2 De 4 Oz",
-    "description": "Paquete de 4 biberones Dr. Brown's de diferentes tamaños.",
-    "category": "Biberones Anticólicos",
-    "price": "747.12",
-    "marca": "Dr. Brown's",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete Avent Natural Gift Set",
-    "description": "Set de regalo Avent Natural con biberones y accesorios.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "1,699.00",
-    "marca": "Philips Avent",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete De 3 Biberones Evenflo Dreams 1367 120ml/4oz Color Amarillo",
-    "description": "Paquete de 3 biberones Evenflo Dreams de 120ml.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "137.00",
-    "marca": "Evenflo",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Biberones Mam Anticolicos Paquete 2 Biberones",
-    "description": "Paquete de 2 biberones Mam anticólicos.",
-    "category": "Biberones Anticólicos",
-    "price": "883.00",
-    "marca": "Mam",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Funda Interior Para Biberón Boon Nursh 8 Oz Paquete 3 Piezas",
-    "description": "Fundas interiores para biberón Boon Nursh de 8 oz, paquete de 3.",
-    "category": "Accesorios para Biberones",
-    "price": "420.00",
-    "marca": "Boon",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Biberones Evenflo Para Bebe De 8 Oz Paquete Con 3 Piezas",
-    "description": "Paquete de 3 biberones Evenflo de 8 oz.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "185.85",
-    "marca": "Evenflo",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Paquete 3 Pz De Biberones Philips Avent Natural 9 Oz Rosa",
-    "description": "Paquete de 3 biberones Philips Avent Natural de 9 oz, color rosa.",
-    "category": "Biberones Anticólicos",
-    "price": "790.00",
-    "marca": "Philips Avent",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Mamadeira Anticólicos Philips Avent Classic, 260 ml, paquete de 2",
-    "description": "Paquete de 2 biberones Philips Avent Classic anticólicos de 260 ml.",
-    "category": "Biberones Anticólicos",
-    "price": "411.75",
-    "marca": "Philips Avent",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
-    "name": "Set De Recién Nacido Rosa 9 Piezas Twistshake",
-    "description": "Set de 9 piezas Twistshake para recién nacidos, color rosa.",
-    "category": "Biberones para Recién Nacidos",
-    "price": "1,189.00",
-    "marca": "Twistshake",
-    "tienda": "MercadoLibre"
-  },
-  {
-    "code": 16,
-    "image": "https://imgs.search.brave.com/g_SK7ORe-_NkqBOwFF8eIKbBpPGSLmIH6wLPJh9N8gQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEreDgwRkY1WEwu/anBn",
-    "name": "Pan blanco Bimbo",
-    "description": "Pan blanco Bimbo",
-    "category": "Abarrotes",
-    "price": "46",
-    "content": "645",
-    "units": "g"
-  },
-  {
-    "code": 18,
-    "image": "https://imgs.search.brave.com/-kHGBPVtm_7rccBSTjTV_5AijZFtWmq51rV2ro5Vfn0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS5teC9nci9p/bWFnZXMvcHJvZHVj/dC1pbWFnZXMvaW1n/X2xhcmdlLzAwNzUw/NjQ5NTAwNDczTC5q/cGc_b2RuSGVpZ2h0/PTU4MCZvZG5XaWR0/aD01ODAmb2RuQmc9/RkZGRkZG",
-    "name": "Hielo Grat Value",
-    "description": "Hielo de agua purificada Great Value ",
-    "category": "Congelados",
-    "price": "36",
-    "content": "3.9",
-    "units": "k"
-  },
-  {
-    "code": 19,
-    "image": "https://imgs.search.brave.com/TFNPbeiiMsn_m8tbKWx5q-n3TLCgdDsMO3c6y5euFC8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcmlxcmEvaW1h/Z2UvdXBsb2FkL3df/OTA2LGhfOTA2LGNf/Zml0LHFfYXV0byxm/X2F1dG8vdjE2Nzg4/MTEyNTMvc2VsbGVy/cy8zL3Zhbjhma3Np/eGNhemw4YXppZGdk/LmpwZw",
-    "name": "Fanta",
-    "description": "Refresco sabor naranja ",
-    "category": "Abarrotes",
-    "price": "20",
-    "content": "600",
-    "units": "ml"
-  },
-  {
-    "code": 20,
-    "image": "https://comercialtrevino.com/images/811.jpg?u=1740180897",
-    "name": "Coca-Cola",
-    "description": "Refresco sabor cola",
-    "category": "Abarrotes",
-    "price": "20",
-    "content": "600",
-    "units": "ml"
-  },
-  {
-    "code": 21,
-    "image": "https://circulokmx.vtexassets.com/arquivos/ids/162702-800-auto?v=638138832938670000&width=800&height=auto&aspect=true",
-    "name": "Embasa Catsup",
-    "description": "Mezcla de tomates",
-    "category": "Abarrotes",
-    "price": "23",
-    "content": "380",
-    "units": "g"
-  },
-  {
-    "code": 22,
-    "image": "https://res.cloudinary.com/riqra/image/upload/w_906,h_906,c_fit,q_auto,f_auto/v1678811220/sellers/3/pgnmumqdbcnebe69o4rc.jpg",
-    "name": "Crema acida lala",
-    "description": "Crema semi acida Lala",
-    "category": "Lácteos",
-    "price": "26",
-    "content": "426",
-    "units": "g"
-  },
-  {
-    "code": 23,
-    "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750100330631L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    "name": "Mayonesa McCormick",
-    "description": "Mayonesa McCormick con jugo de limónes ",
-    "category": "Abarrotes",
-    "price": "89",
-    "content": "870",
-    "units": "g"
-  },
-  {
-    "code": 25,
-    "image": "https://tiendascorpion.mayoreoenlinea.mx/cdn/shop/files/17013_1_3_430c1fb2-d3ee-4142-bd3a-fcb285374907.jpg?v=1747324770&width=1445",
-    "name": "Sal la fina",
-    "description": "Sal yodada La Fina ",
-    "category": "Abarrotes",
-    "price": "83",
-    "content": "1",
-    "units": "k"
-  },
-  {
-    "code": 24,
-    "image": "https://m.media-amazon.com/images/I/51RO8cDnACL.jpg",
-    "name": "Jalapeños Enteros La Costeña ",
-    "description": "Chiles jalapeños enteros en vinagre ",
-    "category": "Abarrotes",
-    "price": "39",
-    "content": "220",
-    "units": "g"
-  },
-  {
-    "code": 26,
-    "image": "https://res.cloudinary.com/riqra/image/upload/w_906,h_906,c_fit,q_auto,f_auto/v1694106866/sellers/2/ldo8bnib3b8wa4dtw1ud.jpg",
-    "name": "Tang Uva",
-    "description": "Polvo para preparar bebidas sabor uva ",
-    "category": "Abarrotes",
-    "price": "5.90",
-    "content": "5",
-    "units": "g"
-  },
-  {
-    "code": 27,
-    "image": "https://www.superaki.mx/cdn/shop/files/7501026002304_140324_compact.jpg?v=1711982611",
-    "name": "Aceite Vegetal 123",
-    "description": "Aceite Vegetal 123",
-    "category": "Abarrotes",
-    "price": "36",
-    "content": "800",
-    "units": "ml"
-  },
-  {
-    "code": 28,
-    "image": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750102054704L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-    "name": "Leche Lala ",
-    "description": "Leche entera Lala ",
-    "category": "Lácteos",
-    "price": "36",
-    "content": "1.8",
-    "units": "L"
-  },
-  {
-    "code": 29,
-    "image": "https://sym.com.mx/wp-content/uploads/2019/01/lirio_lavanderia-1.jpg",
-    "name": "Jabón de lavandería Lirio",
-    "description": "Jabón multiusos en barra",
-    "category": "Abarrotes",
-    "price": "23",
-    "content": "56",
-    "units": "g"
-  },
-  {
-    "code": 17,
-    "image": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU",
-    "name": "Fresca",
-    "description": "Refresco sabor toronja ",
-    "category": "Abarrotes",
-    "price": "20",
-    "content": "600",
-    "units": "ml"
-  },
-  {
-    "code": 30,
-    "image": "https://resources.claroshop.com/medios-plazavip/mkt/6202221b352e6_1078345469_2pwebpjpg.jpg?scale=500&qlty=75",
-    "name": "Biberón Evenflo Sistema anti cólicos",
-    "description": "Biberón Evenflo con novedoso sistema anti cólicos",
-    "category": "Bebés",
-    "price": "50",
-    "content": "220",
-    "units": "ml"
-  },
-  {
-    "code": 1,
-    "image": "",
-    "name": "D'Gary Gelatina de sabores",
-    "description": "Gelatina en polvo varios sabores",
-    "category": "Abarrotes",
-    "price": "10",
-    "content": "32",
-    "units": "g"
-  },
-  {
-    "code": 2,
-    "image": "",
-    "name": "Agua great value",
-    "description": "Agua purificada great value",
-    "category": "Abarrotes",
-    "price": "6.50",
-    "content": "2",
-    "units": "L"
-  },
-  {
-    "code": 3,
-    "image": "",
-    "name": "Coca cola retornable",
-    "description": "Coca cola de envase retornable, más barata",
-    "category": "Abarrotes",
-    "price": "30",
-    "content": "2.5",
-    "units": "L"
-  },
-  {
-    "code": 4,
-    "image": "",
-    "name": "Guantes",
-    "description": "",
-    "category": "Ferretería",
-    "price": "28.90",
-    "content": "1",
-    "units": "Par"
-  },
-  {
-    "code": 5,
-    "image": "",
-    "name": "Pepsi",
-    "description": "Refresco sabor cola",
-    "category": "Abarrotes",
-    "price": "20",
-    "content": "600",
-    "units": "ml"
-  },
-  {
-    "code": 6,
-    "image": "",
-    "name": "Agua Bonafont ",
-    "description": "Agua",
-    "category": "Abarrotes",
-    "price": "25",
-    "content": "2",
-    "units": "L"
-  },
-  {
-    "code": 4,
-    "image": "",
-    "name": "Coca-Cola",
-    "description": "Coca-Cola 4 pack ",
-    "category": "Abarrotes",
-    "price": "60",
-    "content": "4pack de 600",
-    "units": "ml"
-  },
-  {
-    "code": 5,
-    "image": "",
-    "name": "Maruchan",
-    "description": "Sopa instantánea Maruchan con camarón y chile abanero",
-    "category": "Abarrotes",
-    "price": "14.50",
-    "content": "42",
-    "units": "g"
-  },
-  {
-    "code": 6,
-    "image": "",
-    "name": "Carnation clavel",
-    "description": "Leche evaporada condensada carnation clavel",
-    "category": "Abarrotes",
-    "price": "45",
-    "content": "1",
-    "units": "L"
-  },
-  {
-    "code": 7,
-    "image": "",
-    "name": "Papel higiénico Great Value",
-    "description": "Papel higiénico Great Value de 24 rollos",
-    "category": "Abarrotes",
-    "price": "99",
-    "content": "18",
-    "units": "Rollos"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Queso_Oaxaca.jpg",
-    "name": "Queso Oaxaca",
-    "description": "Queso fresco de leche de vaca, de textura fibrosa y suave sabor, originario del estado de Oaxaca.",
-    "category": "Lácteos",
-    "price": "85.00",
-    "content": "500 g",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mazap%C3%A1n_de_cacahuate.jpg",
-    "name": "Mazapán de cacahuate",
-    "description": "Dulce tradicional elaborado con cacahuate molido y azúcar, de textura suave y sabor dulce.",
-    "category": "Dulces típicos",
-    "price": "10.00",
-    "content": "28 g",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Valentina_salsa_picante.jpg",
-    "name": "Salsa Valentina",
-    "description": "Salsa picante de chile y especias, popular en botanas y antojitos mexicanos.",
-    "category": "Salsas",
-    "price": "25.00",
-    "content": "370 ml",
-    "units": "botella"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tequila_bottle.jpg",
-    "name": "Tequila Reposado",
-    "description": "Bebida alcohólica destilada del agave azul, reposada en barricas de roble.",
-    "category": "Bebidas alcohólicas",
-    "price": "350.00",
-    "content": "750 ml",
-    "units": "botella"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Tortilla_de_ma%C3%ADz.jpg",
-    "name": "Tortillas de maíz",
-    "description": "Tortillas tradicionales elaboradas con masa de maíz nixtamalizado.",
-    "category": "Panadería",
-    "price": "15.00",
-    "content": "1 kg",
-    "units": "paquete"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alegr%C3%ADa_de_amaranto.jpg",
-    "name": "Alegría de amaranto",
-    "description": "Dulce tradicional hecho con semillas de amaranto y miel.",
-    "category": "Dulces típicos",
-    "price": "12.00",
-    "content": "30 g",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chiles_en_nogada.jpg",
-    "name": "Chiles en nogada",
-    "description": "Platillo típico poblano: chile poblano relleno de picadillo, cubierto con salsa de nuez y granada.",
-    "category": "Platillos preparados",
-    "price": "120.00",
-    "content": "1 pieza",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cervezas_mexicanas.jpg",
-    "name": "Cerveza artesanal mexicana",
-    "description": "Cerveza elaborada en microcervecerías mexicanas, variedad de estilos y sabores.",
-    "category": "Bebidas alcohólicas",
-    "price": "45.00",
-    "content": "355 ml",
-    "units": "botella"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chapulines_tostados.jpg",
-    "name": "Chapulines tostados",
-    "description": "Insectos comestibles tostados y sazonados, ricos en proteínas.",
-    "category": "Botanas",
-    "price": "60.00",
-    "content": "100 g",
-    "units": "bolsa"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jarabe_de_agave.jpg",
-    "name": "Jarabe de agave",
-    "description": "Endulzante natural extraído del agave, alternativa al azúcar.",
-    "category": "Endulzantes",
-    "price": "80.00",
-    "content": "500 ml",
-    "units": "frasco"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vanilla_pods.jpg",
-    "name": "Vainilla de Papantla",
-    "description": "Vainas de vainilla cultivadas en Papantla, Veracruz, con denominación de origen.",
-    "category": "Especias",
-    "price": "150.00",
-    "content": "50 g",
-    "units": "frasco"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Talavera_poblana.jpg",
-    "name": "Talavera poblana",
-    "description": "Cerámica artesanal decorada a mano, originaria de Puebla.",
-    "category": "Artesanías",
-    "price": "500.00",
-    "content": "1 pieza",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mole_poblano.jpg",
-    "name": "Mole poblano",
-    "description": "Salsa tradicional mexicana hecha con chiles, especias y chocolate.",
-    "category": "Salsas",
-    "price": "90.00",
-    "content": "500 g",
-    "units": "frasco"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pan_de_muerto.jpg",
-    "name": "Pan de muerto",
-    "description": "Pan dulce tradicional elaborado para el Día de Muertos.",
-    "category": "Panadería",
-    "price": "35.00",
-    "content": "1 pieza",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Papel_picado.jpg",
-    "name": "Papel picado",
-    "description": "Decoración tradicional mexicana hecha de papel recortado.",
-    "category": "Artesanías",
-    "price": "25.00",
-    "content": "10 piezas",
-    "units": "paquete"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mezcal_bottle.jpg",
-    "name": "Mezcal artesanal",
-    "description": "Bebida alcohólica destilada del agave, con sabor ahumado.",
-    "category": "Bebidas alcohólicas",
-    "price": "400.00",
-    "content": "750 ml",
-    "units": "botella"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Atole_de_chocolate.jpg",
-    "name": "Atole de chocolate",
-    "description": "Bebida caliente y espesa hecha con masa de maíz y chocolate.",
-    "category": "Bebidas tradicionales",
-    "price": "20.00",
-    "content": "355 ml",
-    "units": "vaso"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tamales_mexicanos.jpg",
-    "name": "Tamales mexicanos",
-    "description": "Masa de maíz rellena de diversos ingredientes, envuelta en hojas y cocida al vapor.",
-    "category": "Platillos preparados",
-    "price": "25.00",
-    "content": "1 pieza",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Guacamole.jpg",
-    "name": "Guacamole",
-    "description": "Salsa hecha a base de aguacate, jitomate, cebolla y chile.",
-    "category": "Salsas",
-    "price": "50.00",
-    "content": "250 g",
-    "units": "frasco"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Calaveras_de_az%C3%BAcar.jpg",
-    "name": "Calaveras de azúcar",
-    "description": "Dulces tradicionales decorados, elaborados para el Día de Muertos.",
-    "category": "Dulces típicos",
-    "price": "30.00",
-    "content": "1 pieza",
-    "units": "pieza"
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jab%C3%B3n_Zote.jpg",
-    "name": "Jabón Zote",
-    "description": "Jabón de lavandería tradicional mexicano, conocido por su eficacia.",
-    "category": "Limpieza",
-    "price": "15.00",
-    "content": "400 g",
-    "units": "barra"
-  },
-  {
-    "name": "Azúcar estándar",
-    "description": "Endulzante común en la cocina mexicana.",
-    "category": "Despensa",
-    "price": "25.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Arroz blanco",
-    "description": "Grano básico en la alimentación diaria.",
-    "category": "Despensa",
-    "price": "20.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Frijol negro",
-    "description": "Leguminosa rica en proteínas y fibra.",
-    "category": "Despensa",
-    "price": "30.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Aceite vegetal comestible",
-    "description": "Aceite para cocinar y freír alimentos.",
-    "category": "Despensa",
-    "price": "35.00",
-    "content": "1 l",
-    "units": "botella"
-  },
-  {
-    "name": "Harina de maíz",
-    "description": "Ingrediente principal para tortillas.",
-    "category": "Despensa",
-    "price": "18.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Leche entera",
-    "description": "Bebida láctea rica en calcio.",
-    "category": "Lácteos",
-    "price": "22.00",
-    "content": "1 l",
-    "units": "tetrapak"
-  },
-  {
-    "name": "Huevos blancos",
-    "description": "Fuente de proteína animal.",
-    "category": "Refrigerados",
-    "price": "40.00",
-    "content": "12 piezas",
-    "units": "cartón"
-  },
-  {
-    "name": "Pan de caja blanco",
-    "description": "Pan suave ideal para sándwiches.",
-    "category": "Panadería",
-    "price": "30.00",
-    "content": "680 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Tortillas de maíz",
-    "description": "Base de muchos platillos mexicanos.",
-    "category": "Panadería",
-    "price": "15.00",
-    "content": "1 kg",
-    "units": "paquete"
-  },
-  {
-    "name": "Refresco cola",
-    "description": "Bebida carbonatada de sabor cola.",
-    "category": "Bebidas",
-    "price": "18.00",
-    "content": "600 ml",
-    "units": "botella"
-  },
-  {
-    "name": "Agua purificada",
-    "description": "Agua potable embotellada.",
-    "category": "Bebidas",
-    "price": "12.00",
-    "content": "1.5 l",
-    "units": "botella"
-  },
-  {
-    "name": "Cerveza clara",
-    "description": "Bebida alcohólica fermentada.",
-    "category": "Bebidas",
-    "price": "20.00",
-    "content": "355 ml",
-    "units": "botella"
-  },
-  {
-    "name": "Café soluble",
-    "description": "Bebida estimulante instantánea.",
-    "category": "Bebidas",
-    "price": "45.00",
-    "content": "100 g",
-    "units": "frasco"
-  },
-  {
-    "name": "Sopa instantánea",
-    "description": "Comida rápida y fácil de preparar.",
-    "category": "Despensa",
-    "price": "10.00",
-    "content": "64 g",
-    "units": "vaso"
-  },
-  {
-    "name": "Atún en agua",
-    "description": "Pescado enlatado listo para consumir.",
-    "category": "Enlatados",
-    "price": "15.00",
-    "content": "140 g",
-    "units": "lata"
-  },
-  {
-    "name": "Sardinas en tomate",
-    "description": "Pescado en salsa de tomate.",
-    "category": "Enlatados",
-    "price": "18.00",
-    "content": "155 g",
-    "units": "lata"
-  },
-  {
-    "name": "Chiles jalapeños en escabeche",
-    "description": "Chiles en conserva con vinagre.",
-    "category": "Enlatados",
-    "price": "20.00",
-    "content": "220 g",
-    "units": "lata"
-  },
-  {
-    "name": "Frijoles refritos enlatados",
-    "description": "Frijoles cocidos y molidos listos para calentar.",
-    "category": "Enlatados",
-    "price": "22.00",
-    "content": "430 g",
-    "units": "lata"
-  },
-  {
-    "name": "Puré de tomate",
-    "description": "Base para salsas y guisos.",
-    "category": "Despensa",
-    "price": "12.00",
-    "content": "210 g",
-    "units": "tetrapak"
-  },
-  {
-    "name": "Sal de mesa",
-    "description": "Condimento esencial en la cocina.",
-    "category": "Despensa",
-    "price": "8.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Pimienta negra molida",
-    "description": "Condimento común para dar sabor.",
-    "category": "Despensa",
-    "price": "18.00",
-    "content": "50 g",
-    "units": "frasco"
-  },
-  {
-    "name": "Mayonesa",
-    "description": "Aderezo a base de huevo y aceite.",
-    "category": "Despensa",
-    "price": "30.00",
-    "content": "390 g",
-    "units": "frasco"
-  },
-  {
-    "name": "Mostaza",
-    "description": "Aderezo amarillo con sabor fuerte.",
-    "category": "Despensa",
-    "price": "15.00",
-    "content": "250 g",
-    "units": "frasco"
-  },
-  {
-    "name": "Kétchup",
-    "description": "Salsa de tomate dulce usada como aderezo.",
-    "category": "Despensa",
-    "price": "20.00",
-    "content": "400 g",
-    "units": "frasco"
-  },
-  {
-    "name": "Caldo de pollo en cubos",
-    "description": "Condimento concentrado para sopas y guisos.",
-    "category": "Despensa",
-    "price": "14.00",
-    "content": "6 cubos",
-    "units": "caja"
-  },
-  {
-    "name": "Salsa picante",
-    "description": "Salsa con chiles para acompañar platillos.",
-    "category": "Despensa",
-    "price": "12.00",
-    "content": "120 ml",
-    "units": "botella"
-  },
-  {
-    "name": "Pan dulce (conchas)",
-    "description": "Pan tradicional azucarado mexicano.",
-    "category": "Panadería",
-    "price": "8.00",
-    "content": "1 pieza",
-    "units": "unidad"
-  },
-  {
-    "name": "Galletas Marías",
-    "description": "Galletas dulces básicas, ideales para postres.",
-    "category": "Panadería",
-    "price": "18.00",
-    "content": "170 g",
-    "units": "paquete"
-  },
-  {
-    "name": "Papas fritas",
-    "description": "Snack crujiente de papa salada.",
-    "category": "Botanas",
-    "price": "15.00",
-    "content": "45 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Chicharrón de cerdo",
-    "description": "Botana tradicional mexicana crujiente.",
-    "category": "Botanas",
-    "price": "22.00",
-    "content": "100 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Cacahuates enchilados",
-    "description": "Snack picante de maní tostado.",
-    "category": "Botanas",
-    "price": "20.00",
-    "content": "150 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Chicles",
-    "description": "Goma de mascar con diferentes sabores.",
-    "category": "Dulces",
-    "price": "10.00",
-    "content": "5 piezas",
-    "units": "paquete"
-  },
-  {
-    "name": "Caramelos surtidos",
-    "description": "Dulces duros con sabores variados.",
-    "category": "Dulces",
-    "price": "18.00",
-    "content": "150 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Chocolate Carlos V",
-    "description": "Barra de chocolate con leche.",
-    "category": "Dulces",
-    "price": "10.00",
-    "content": "20 g",
-    "units": "barra"
-  },
-  {
-    "name": "Té en bolsitas",
-    "description": "Infusión de hierbas y hojas secas.",
-    "category": "Bebidas",
-    "price": "25.00",
-    "content": "25 sobres",
-    "units": "caja"
-  },
-  {
-    "name": "Chocolate en polvo",
-    "description": "Mezcla para preparar bebidas de chocolate.",
-    "category": "Bebidas",
-    "price": "28.00",
-    "content": "220 g",
-    "units": "bolsa"
-  },
-  {
-    "name": "Detergente en polvo",
-    "description": "Jabón para lavar ropa.",
-    "category": "Limpieza",
-    "price": "25.00",
-    "content": "1 kg",
-    "units": "bolsa"
-  },
-  {
-    "name": "Jabón para trastes",
-    "description": "Líquido para lavar utensilios de cocina.",
-    "category": "Limpieza",
-    "price": "18.00",
-    "content": "640 ml",
-    "units": "botella"
-  },
-  {
-    "name": "Papel higiénico",
-    "description": "Papel suave de uso sanitario.",
+    "image": "https://imgs.search.brave.com/B7kkagdcIo2h0aNWk_iTAIm2GfIhnCJmVuMjzXUf3Ys/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDErMTVlMjJ1aUwu/anBn",
+    "name": "Pañales Huggies Supreme Etapa 1",
+    "description": "Pañales desechables para recién nacidos, con tecnología de absorción rápida y suave para la piel del bebé.",
+    "category": "Pañales",
+    "price": "299.00",
+    "marca": "Huggies",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/Rj9PuAh8bzv4xzd2mJYRcRr1_moc7TEvsYJy1O1ycx4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzkyNTQ5MS1NTE03/Nzk4NzE2NzU4OV8w/NzIwMjQtRS53ZWJw",
+    "name": "Toallitas Húmedas Pampers Sensitive",
+    "description": "Toallitas húmedas sin fragancia, hipoalergénicas y suaves para la piel sensible del bebé.",
     "category": "Higiene",
-    "price": "25.00",
-    "content": "4 rollos",
-    "units": "paquete"
+    "price": "189.00",
+    "marca": "Pampers",
+    "tienda": "Amazon México"
   },
   {
-    "name": "Pasta dental",
-    "description": "Crema para higiene bucal.",
-    "category": "Higiene",
-    "price": "22.00",
-    "content": "90 g",
-    "units": "tubo"
+    "image": "https://imgs.search.brave.com/Manrq--wlrG3fceDU-qopQ-2wdE4njIPGsa1LbXWjr0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxM0p3SjlSanlM/LmpwZw",
+    "name": "Biberón Philips Avent Natural 260 ml",
+    "description": "Biberón con tetina de flujo lento, diseño ergonómico y sistema anticólicos.",
+    "category": "Alimentación",
+    "price": "249.00",
+    "marca": "Philips Avent",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/FBI6MVTSq-_e5f_N6s-U8AM1HXG_fqzD1OHk5JQ73b8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxWndLZmgrTzZM/LmpwZw",
+    "name": "Cuna Colecho Next2Me Chicco",
+    "description": "Cuna colecho ajustable en altura, con laterales de malla para mejor ventilación y visibilidad.",
+    "category": "Mobiliario",
+    "price": "5,999.00",
+    "marca": "Chicco",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/6Cowufn5cZmGTbvzml_kII4KaXzRQDUqqYUGFHO6phs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTF1aWtIWHZLaEwu/anBn",
+    "name": "Carriola Travel System Evenflo Pivot Modular",
+    "description": "Sistema de viaje 3 en 1 con asiento reversible, portabebé y base para auto.",
+    "category": "Transporte",
+    "price": "7,499.00",
+    "marca": "Evenflo",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/s5lcwaybJR0jIk7tQQZIomj27MWOW7C56zNKkjouLgw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFPU2MweWNjUEwu/anBn",
+    "name": "Monitor de Bebé Motorola MBP36XL",
+    "description": "Monitor con pantalla LCD de 5 pulgadas, visión nocturna y comunicación bidireccional.",
+    "category": "Seguridad",
+    "price": "3,299.00",
+    "marca": "Motorola",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/36BfXNv_VMvkaAU_PkaehI6AcZyCCYvxQZ9Gj6XO0Fw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/Z3J1cG9lbGNvcnRl/aW5nbGVzLmVzL1NH/Rk0vZGN0bS9NRURJ/QTAzLzIwMjQwMi8w/MS8wMDEwNTMzNDBG/MDAwNV9fX18xX182/NDB4NjQwLmpwZw",
+    "name": "Bañera Plegable Stokke Flexi Bath",
+    "description": "Bañera compacta y plegable, ideal para espacios pequeños y viajes.",
+    "category": "Baño",
+    "price": "1,199.00",
+    "marca": "Stokke",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://imgs.search.brave.com/Q3ue-cZqSz7KUHopd5icCARP7amLs0o8HX14z9NEbdM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9OUV9OUF84/ODU3MjMtQ0JUNzIz/NjA3MTU2ODlfMTAy/MDIzLVcud2VicA",
+    "name": "Set de Ropa Gerber 5 Piezas",
+    "description": "Conjunto de ropa para recién nacido que incluye bodies, pantalones y gorro.",
+    "category": "Ropa",
+    "price": "499.00",
+    "marca": "Gerber",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61v+vZ3E+uL._AC_SL1500_.jpg",
+    "name": "Chupón Philips Avent Soothie",
+    "description": "Chupón de silicona médica, diseñado para bebés de 0 a 3 meses.",
+    "category": "Accesorios",
+    "price": "149.00",
+    "marca": "Philips Avent",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/61sK6p0e2tL._AC_SL1500_.jpg",
+    "name": "Silla para Auto Graco SnugRide SnugLock 35",
+    "description": "Silla de auto para recién nacidos, con base ajustable y sistema de instalación rápida.",
+    "category": "Transporte",
+    "price": "3,999.00",
+    "marca": "Graco",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
+    "name": "Carriola 4 en 1 Infanti Altra",
+    "description": "Carriola multifuncional con asiento reversible, toldo UPF50+, reclinable y canasta de almacenamiento.",
+    "category": "Carriolas 4 en 1",
+    "price": "1,919.40",
+    "marca": "Infanti",
+    "tienda": "MercadoLibre"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
+    "name": "Trendy Kids Travel System Max 4 En 1 Con Portabebé",
+    "description": "Sistema de viaje 4 en 1 con portabebé, carriola, bambineto y pañalera.",
+    "category": "Carriolas 4 en 1",
+    "price": "2,138.00",
+    "marca": "Trendy Kids",
+    "tienda": "MercadoLibre"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_970478-MLM51821857456_102022-F.webp",
+    "name": "Set De Bebé Con Carriola Baby Boutique Rosa",
+    "description": "Set de bebé que incluye carriola, portabebé, bambineto y pañalera en color rosa.",
+    "category": "Carriolas 4 en 1",
+    "price": "1,783.00",
+    "marca": "Baby Boutique",
+    "tienda": "MercadoLibre"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71pQkU5V5nL._AC_SL1500_.jpg",
+    "name": "Carriola Travel System D´BEBÉ",
+    "description": "Carriola multifuncional ideal para bebés recién nacidos y hasta los 4 años. Incluye bambineto y autoasiento.",
+    "category": "Carriolas 4 en 1",
+    "price": "3,973.38",
+    "marca": "D´BEBÉ",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71pQkU5V5nL._AC_SL1500_.jpg",
+    "name": "INFANTI Carriola para Bebé MIKE",
+    "description": "Carriola de viaje plegable con portabebé, asiento reversible y adecuada para bebés recién nacidos hasta 15 kg.",
+    "category": "Carriolas 4 en 1",
+    "price": "4,548.00",
+    "marca": "Infanti",
+    "tienda": "Amazon México"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71pQkU5V5nL._AC_SL1500_.jpg",
+    "name": "Familidoo H4E Carriola Cuádruple para Niños",
+    "description": "Carriola de 4 plazas con arnés de seguridad de 5 puntos, ligera y plegable con todos los asientos reclinables.",
+    "category": "Carriolas 4 en 1",
+    "price": "17,652.47",
+    "marca": "Familidoo",
+    "tienda": "Amazon México"
   },
   {
     "image": "https://m.media-amazon.com/images/I/61YbGk4hZlL._AC_SX679_.jpg",
@@ -1467,6 +699,123 @@
     "category": "Carriolas Ligeras",
     "price": "40.76",
     "marca": "Ingenuity",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/summer_infant_3dlite.jpg",
+    "name": "Summer Infant 3Dlite Convenience",
+    "description": "Cochecito ligero con marco de aluminio, reclinable multiposición y cesta de almacenamiento.",
+    "category": "Carriolas Ligeras",
+    "price": "78.99",
+    "marca": "Summer Infant",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/graco_ready2jet.jpg",
+    "name": "Graco Ready2Jet",
+    "description": "Cochecito compacto de viaje con plegado automático y diseño ligero.",
+    "category": "Carriolas Ligeras",
+    "price": "159.99",
+    "marca": "Graco",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/jeep_adventureglyde.jpg",
+    "name": "Jeep AdventureGlyde",
+    "description": "Cochecito de viaje ligero con conducción más suave y plegado compacto.",
+    "category": "Carriolas Ligeras",
+    "price": "69.99",
+    "marca": "Jeep",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/cybex_libelle.jpg",
+    "name": "Cybex Libelle",
+    "description": "Cochecito de bebé con bolsillo de viaje, ligero y compatible con asientos de automóvil CYBEX.",
+    "category": "Carriolas Ligeras",
+    "price": "221.96",
+    "marca": "Cybex",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/mompush_lithe_v2.jpg",
+    "name": "Mompush Lithe V2",
+    "description": "Cochecito ligero, plegable ultracompacto y listo para avión, con asiento reclinable.",
+    "category": "Carriolas Ligeras",
+    "price": "179.99",
+    "marca": "Mompush",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/uppababy_minuv2.jpg",
+    "name": "UPPAbaby Minu V2",
+    "description": "Cochecito de viaje ligero, diseño portátil, correa de hombro plegable con una sola mano.",
+    "category": "Carriolas Ligeras",
+    "price": "399.99",
+    "marca": "UPPAbaby",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/summer_infant_3dlite_double.jpg",
+    "name": "Summer Infant 3Dlite Double Convenience",
+    "description": "Cochecito doble ligero para bebés y niños pequeños con marco de aluminio.",
+    "category": "Carriolas Dobles",
+    "price": "118.23",
+    "marca": "Summer Infant",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/cocomelon_cochecito.jpg",
+    "name": "Cocomelon Cochecito paraguas",
+    "description": "Cochecito paraguas con toldo, ligero y compacto para viajes.",
+    "category": "Carriolas Ligeras",
+    "price": "29.97",
+    "marca": "Cocomelon",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/babygap_cochecito.jpg",
+    "name": "BabyGap Cochecito clásico",
+    "description": "Cochecito ligero con reclinable, plegable compacto y organizador extraíble para padres.",
+    "category": "Carriolas Ligeras",
+    "price": "89.99",
+    "marca": "BabyGap",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/disney_cochecito.jpg",
+    "name": "Disney Cochecito paraguas de personaje",
+    "description": "Cochecito paraguas llamativo y divertido, diseño de Minnie.",
+    "category": "Carriolas Ligeras",
+    "price": "42.99",
+    "marca": "Disney",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/cosco_cochecito.jpg",
+    "name": "Cosco Cochecito de paraguas de personaje",
+    "description": "Cochecito compacto plegable, fácil de almacenar en cualquier lugar.",
+    "category": "Carriolas Ligeras",
+    "price": "36.99",
+    "marca": "Cosco",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/joolz_aer_plus.jpg",
+    "name": "Joolz AER+",
+    "description": "Cochecito de bebé ligero, ultra compacto y portátil, diseño plegable con una sola mano.",
+    "category": "Carriolas Ligeras",
+    "price": "449.00",
+    "marca": "Joolz",
+    "tienda": "Amazon"
+  },
+  {
+    "image": "https://example.com/images/graco_outpace_lx.jpg",
+    "name": "Graco Outpace LX Cohen",
+    "description": "Cochecito compatible con sistema de viaje, fácil de plegar con una sola mano.",
+    "category": "Carriolas Ligeras",
+    "price": "169.99",
+    "marca": "Graco",
     "tienda": "Amazon"
   }
 ]
