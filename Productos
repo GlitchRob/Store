@@ -1,5 +1,805 @@
 [
   {
+    "code": "MUE001",
+    "image": "",
+    "name": "Cuna de madera convertible",
+    "description": "Cuna que puede adaptarse a cama infantil conforme crece el bebé.",
+    "category": "Muebles",
+    "price": "3850",
+    "marca": "Storkcraft",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "MUE002",
+    "image": "",
+    "name": "Cambiador con compartimentos",
+    "description": "Mueble para cambiar pañales con espacio para almacenamiento.",
+    "category": "Muebles",
+    "price": "1550",
+    "marca": "Graco",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "MUE003",
+    "image": "",
+    "name": "Organizador colgante para pañales y toallitas",
+    "description": "Se cuelga en la cuna o pared para tener todo al alcance.",
+    "category": "Muebles",
+    "price": "250",
+    "marca": "Munchkin",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "MUE004",
+    "image": "",
+    "name": "Gavetero infantil",
+    "description": "Cómoda de varios cajones para guardar ropa y accesorios.",
+    "category": "Muebles",
+    "price": "1890",
+    "marca": "Delta Children",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "MUE005",
+    "image": "",
+    "name": "Silla mecedora para lactancia",
+    "description": "Ideal para amamantar y relajar al bebé.",
+    "category": "Muebles",
+    "price": "2790",
+    "marca": "Baby Relax",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "MUE006",
+    "image": "",
+    "name": "Caja organizadora de juguetes",
+    "description": "Contenedor con tapa para mantener los juguetes en orden.",
+    "category": "Muebles",
+    "price": "320",
+    "marca": "Home Basics",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "MUE007",
+    "image": "",
+    "name": "Cesto para ropa sucia de bebé",
+    "description": "Ligero y plegable, con diseño infantil.",
+    "category": "Muebles",
+    "price": "180",
+    "marca": "Mainstays",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "MUE008",
+    "image": "",
+    "name": "Mini clóset organizador de tela",
+    "description": "Práctico para colgar y guardar ropa pequeña del bebé.",
+    "category": "Muebles",
+    "price": "450",
+    "marca": "Sorbus",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "MUE009",
+    "image": "",
+    "name": "Mesita lateral con canasto",
+    "description": "Para colocar objetos de uso frecuente al lado de la cuna.",
+    "category": "Muebles",
+    "price": "390",
+    "marca": "RiverRidge",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "MUE010",
+    "image": "",
+    "name": "Estante para cuentos y libros blandos",
+    "description": "Perfecto para incentivar la lectura desde temprana edad.",
+    "category": "Muebles",
+    "price": "570",
+    "marca": "Tot Tutors",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "SEG001",
+    "image": "",
+    "name": "Monitor para bebé con cámara",
+    "description": "Permite vigilar al bebé desde otra habitación, con video y audio.",
+    "category": "Seguridad",
+    "price": "1450",
+    "marca": "VTech",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "SEG002",
+    "image": "",
+    "name": "Protectores de enchufes",
+    "description": "Evitan que el bebé introduzca objetos en las tomas de corriente.",
+    "category": "Seguridad",
+    "price": "90",
+    "marca": "Safety 1st",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "SEG003",
+    "image": "",
+    "name": "Seguro para cajones y puertas",
+    "description": "Bloquea el acceso a muebles peligrosos.",
+    "category": "Seguridad",
+    "price": "120",
+    "marca": "Dreambaby",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "SEG004",
+    "image": "",
+    "name": "Barandal para cama",
+    "description": "Evita caídas mientras el bebé duerme.",
+    "category": "Seguridad",
+    "price": "450",
+    "marca": "Prinsel",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "SEG005",
+    "image": "",
+    "name": "Reja de seguridad para puertas o escaleras",
+    "description": "Limita el acceso a zonas peligrosas.",
+    "category": "Seguridad",
+    "price": "680",
+    "marca": "Evenflo",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "SEG006",
+    "image": "",
+    "name": "Esquineros de goma",
+    "description": "Previenen golpes con esquinas de muebles.",
+    "category": "Seguridad",
+    "price": "85",
+    "marca": "Mommy's Helper",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "SEG007",
+    "image": "",
+    "name": "Alarma de movimiento para cuna",
+    "description": "Monitorea respiración o movimientos del bebé mientras duerme.",
+    "category": "Seguridad",
+    "price": "1380",
+    "marca": "Angelcare",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "SEG008",
+    "image": "",
+    "name": "Cubreperillas de estufa",
+    "description": "Impiden que el bebé gire los mandos de la estufa.",
+    "category": "Seguridad",
+    "price": "160",
+    "marca": "Safety 1st",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "SEG009",
+    "image": "",
+    "name": "Detector de humo y monóxido para habitación",
+    "description": "Alerta en caso de incendios o fuga de gas.",
+    "category": "Seguridad",
+    "price": "780",
+    "marca": "Kidde",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "SEG010",
+    "image": "",
+    "name": "Kit de primeros auxilios para bebé",
+    "description": "Incluye termómetro, aspirador nasal, cortaúñas, etc.",
+    "category": "Seguridad",
+    "price": "260",
+    "marca": "Safety 1st",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "JUG001",
+    "image": "",
+    "name": "Gimnasio de actividades",
+    "description": "Tapete con arco y juguetes colgantes que estimulan los sentidos.",
+    "category": "Juguetes",
+    "price": "720",
+    "marca": "Fisher Price",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "JUG002",
+    "image": "",
+    "name": "Sonaja de colores",
+    "description": "Ligera, segura y fácil de agarrar para estimular el oído.",
+    "category": "Juguetes",
+    "price": "90",
+    "marca": "Bright Starts",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "JUG003",
+    "image": "",
+    "name": "Mordedera con texturas",
+    "description": "Alivia las encías y estimula el tacto.",
+    "category": "Juguetes",
+    "price": "80",
+    "marca": "Nûby",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "JUG004",
+    "image": "",
+    "name": "Peluches suaves",
+    "description": "Ideales para abrazar y desarrollar vínculo afectivo.",
+    "category": "Juguetes",
+    "price": "160",
+    "marca": "Baby Mink",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "JUG005",
+    "image": "",
+    "name": "Espejo irrompible para bebé",
+    "description": "Favorece el reconocimiento facial y la estimulación visual.",
+    "category": "Juguetes",
+    "price": "210",
+    "marca": "Infantino",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "JUG006",
+    "image": "",
+    "name": "Cubo sensorial de tela",
+    "description": "Incluye texturas, sonidos y colores llamativos.",
+    "category": "Juguetes",
+    "price": "320",
+    "marca": "Tiny Love",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "JUG007",
+    "image": "",
+    "name": "Libro suave para bebé",
+    "description": "Con imágenes grandes, colores brillantes y texturas.",
+    "category": "Juguetes",
+    "price": "180",
+    "marca": "Lamaze",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "JUG008",
+    "image": "",
+    "name": "Alfombra de texturas",
+    "description": "Ayuda al desarrollo sensorial durante el juego de piso.",
+    "category": "Juguetes",
+    "price": "450",
+    "marca": "Skip Hop",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "JUG009",
+    "image": "",
+    "name": "Cascabel de muñeca y tobillo",
+    "description": "Se ajusta al cuerpo del bebé y emite sonido con el movimiento.",
+    "category": "Juguetes",
+    "price": "150",
+    "marca": "Fisher Price",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "JUG010",
+    "image": "",
+    "name": "Proyector de luces y sonidos",
+    "description": "Proyecta luces suaves y reproduce melodías relajantes.",
+    "category": "Juguetes",
+    "price": "520",
+    "marca": "VTech",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "ROP001",
+    "image": "",
+    "name": "Mameluco de algodón (paquete x3)",
+    "description": "Con broches frontales, suave y cómodo para uso diario.",
+    "category": "Ropa",
+    "price": "330",
+    "marca": "Carter's",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "ROP002",
+    "image": "",
+    "name": "Bodies manga larga (paquete x5)",
+    "description": "Prácticos para mantener al bebé abrigado y protegido.",
+    "category": "Ropa",
+    "price": "450",
+    "marca": "Gerber",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "ROP003",
+    "image": "",
+    "name": "Pantalones de algodón para bebé (x2)",
+    "description": "Elásticos, cómodos y fáciles de poner.",
+    "category": "Ropa",
+    "price": "190",
+    "marca": "Baby Colors",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "ROP004",
+    "image": "",
+    "name": "Gorritos de algodón (paquete x3)",
+    "description": "Ayudan a mantener la temperatura del bebé.",
+    "category": "Ropa",
+    "price": "120",
+    "marca": "Mi Osito",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "ROP005",
+    "image": "",
+    "name": "Calcetas antideslizantes (paquete x4)",
+    "description": "Cómodas y seguras para bebés que comienzan a moverse.",
+    "category": "Ropa",
+    "price": "140",
+    "marca": "Disney Baby",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "ROP006",
+    "image": "",
+    "name": "Guantes de algodón (paquete x2)",
+    "description": "Evitan que el bebé se rasguñe con sus uñas.",
+    "category": "Ropa",
+    "price": "80",
+    "marca": "Bebeglo",
+    "tienda": "Bodega Aurrera"
+  },
+  {
+    "code": "ROP007",
+    "image": "",
+    "name": "Conjunto para dormir (pijama + gorro)",
+    "description": "Ideal para las noches frescas.",
+    "category": "Ropa",
+    "price": "220",
+    "marca": "Baby Mink",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "ROP008",
+    "image": "",
+    "name": "Chaleco acolchonado para bebé",
+    "description": "Abrigo ligero para clima fresco.",
+    "category": "Ropa",
+    "price": "250",
+    "marca": "GAP Baby",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "ROP009",
+    "image": "",
+    "name": "Baberos impermeables (paquete x4)",
+    "description": "Fáciles de lavar, ideales para la hora de comer.",
+    "category": "Ropa",
+    "price": "130",
+    "marca": "Nûby",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "ROP010",
+    "image": "",
+    "name": "Zapatos suaves de tela (0-3 meses)",
+    "description": "Decorativos, ligeros y cómodos para el bebé.",
+    "category": "Ropa",
+    "price": "180",
+    "marca": "Chicco",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "TRANS001",
+    "image": "",
+    "name": "Carriola de viaje plegable",
+    "description": "Carriola ligera, compacta y fácil de plegar.",
+    "category": "Transporte",
+    "price": "1850",
+    "marca": "Evenflo",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "TRANS002",
+    "image": "",
+    "name": "Portabebé tipo canguro",
+    "description": "Permite llevar al bebé pegado al cuerpo con comodidad.",
+    "category": "Transporte",
+    "price": "480",
+    "marca": "Infantino",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "TRANS003",
+    "image": "",
+    "name": "Silla de auto para bebé (0-13 kg)",
+    "description": "Asiento con base, orientado hacia atrás, aprobado por normas de seguridad.",
+    "category": "Transporte",
+    "price": "1750",
+    "marca": "Prinsel",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "TRANS004",
+    "image": "",
+    "name": "Bolsa pañalera tipo mochila",
+    "description": "Con múltiples compartimentos para transportar lo necesario.",
+    "category": "Transporte",
+    "price": "360",
+    "marca": "Skip Hop",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "TRANS005",
+    "image": "",
+    "name": "Coche 3 en 1 (carriola, portabebé, base)",
+    "description": "Sistema de viaje completo desde recién nacido.",
+    "category": "Transporte",
+    "price": "3650",
+    "marca": "Graco",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "TRANS006",
+    "image": "",
+    "name": "Sombrilla para carriola UV",
+    "description": "Protege al bebé del sol durante los paseos.",
+    "category": "Transporte",
+    "price": "120",
+    "marca": "Safety 1st",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "TRANS007",
+    "image": "",
+    "name": "Cubrecarriola impermeable",
+    "description": "Protección contra lluvia y viento.",
+    "category": "Transporte",
+    "price": "145",
+    "marca": "Munchkin",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "TRANS008",
+    "image": "",
+    "name": "Espejo para auto (asiento trasero)",
+    "description": "Permite ver al bebé mientras conduces.",
+    "category": "Transporte",
+    "price": "180",
+    "marca": "Lusso Gear",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "TRANS009",
+    "image": "",
+    "name": "Cobertor multiusos para portabebé",
+    "description": "Funciona como cobija, protector solar o para lactancia.",
+    "category": "Transporte",
+    "price": "210",
+    "marca": "Boppy",
+    "tienda": "Mercado Libre"
+  },
+  {
+    "code": "TRANS010",
+    "image": "",
+    "name": "Base de auto para portabebé",
+    "description": "Instalación rápida y segura del portabebé en el auto.",
+    "category": "Transporte",
+    "price": "1350",
+    "marca": "Chicco",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "DORM001",
+    "image": "",
+    "name": "Cuna de madera con colchón",
+    "description": "Cuna segura y resistente con colchón firme incluido.",
+    "category": "Dormir",
+    "price": "2800",
+    "marca": "Baby Dreams",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "DORM002",
+    "image": "",
+    "name": "Cojín antirreflujo para bebé",
+    "description": "Inclinado para prevenir el reflujo durante el sueño.",
+    "category": "Dormir",
+    "price": "320",
+    "marca": "Boppy",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "DORM003",
+    "image": "",
+    "name": "Móvil musical para cuna",
+    "description": "Con luces y melodías para calmar al bebé.",
+    "category": "Dormir",
+    "price": "450",
+    "marca": "Fisher Price",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "DORM004",
+    "image": "",
+    "name": "Saco de dormir para bebé",
+    "description": "Evita que se descubra durante la noche.",
+    "category": "Dormir",
+    "price": "220",
+    "marca": "Halo",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "DORM005",
+    "image": "",
+    "name": "Monitor de bebé con audio",
+    "description": "Permite escuchar al bebé desde otra habitación.",
+    "category": "Dormir",
+    "price": "780",
+    "marca": "VTech",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "DORM006",
+    "image": "",
+    "name": "Luz nocturna suave",
+    "description": "Luz tenue para crear un ambiente de descanso.",
+    "category": "Dormir",
+    "price": "180",
+    "marca": "Hatch",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "DORM007",
+    "image": "",
+    "name": "Colchón antiahogo",
+    "description": "Diseñado para permitir la respiración incluso si el bebé se voltea.",
+    "category": "Dormir",
+    "price": "1150",
+    "marca": "Sealy",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "DORM008",
+    "image": "",
+    "name": "Juego de sábanas para cuna (3 piezas)",
+    "description": "Suaves, hipoalergénicas, 100% algodón.",
+    "category": "Dormir",
+    "price": "250",
+    "marca": "Disney Baby",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "DORM009",
+    "image": "",
+    "name": "Cobija ligera para bebé",
+    "description": "Ideal para mantener al bebé abrigado sin sobrecalentarlo.",
+    "category": "Dormir",
+    "price": "190",
+    "marca": "Baby Mink",
+    "tienda": "Bodega Aurrera"
+  },
+  {
+    "code": "DORM010",
+    "image": "",
+    "name": "Cuna colecho",
+    "description": "Permite dormir cerca del bebé con seguridad.",
+    "category": "Dormir",
+    "price": "1650",
+    "marca": "Infanti",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "HIG001",
+    "image": "",
+    "name": "Pañales talla RN (40 piezas)",
+    "description": "Pañales desechables para recién nacido, ultra absorbentes.",
+    "category": "Higiene",
+    "price": "180",
+    "marca": "Huggies",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "HIG002",
+    "image": "",
+    "name": "Toallitas húmedas sin alcohol (80 piezas)",
+    "description": "Suaves, sin fragancia ni alcohol, para piel sensible.",
+    "category": "Higiene",
+    "price": "65",
+    "marca": "Pampers",
+    "tienda": "Bodega Aurrera"
+  },
+  {
+    "code": "HIG003",
+    "image": "",
+    "name": "Pomada para rozaduras (45g)",
+    "description": "Previene y alivia irritaciones en la zona del pañal.",
+    "category": "Higiene",
+    "price": "90",
+    "marca": "Bepanthen",
+    "tienda": "Farmacias Guadalajara"
+  },
+  {
+    "code": "HIG004",
+    "image": "",
+    "name": "Shampoo y jabón 2 en 1 sin lágrimas",
+    "description": "Fórmula suave para uso diario en cuerpo y cabello.",
+    "category": "Higiene",
+    "price": "85",
+    "marca": "Mustela",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "HIG005",
+    "image": "",
+    "name": "Toalla con capucha para bebé",
+    "description": "Toalla suave con capucha, ideal para después del baño.",
+    "category": "Higiene",
+    "price": "130",
+    "marca": "Baby Mink",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "HIG006",
+    "image": "",
+    "name": "Tijeras de seguridad para uñas",
+    "description": "Con punta redonda, seguras para cortar uñas de bebé.",
+    "category": "Higiene",
+    "price": "55",
+    "marca": "Safety 1st",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "HIG007",
+    "image": "",
+    "name": "Aspirador nasal con boquilla",
+    "description": "Ayuda a limpiar las vías respiratorias del bebé.",
+    "category": "Higiene",
+    "price": "70",
+    "marca": "NasalCare",
+    "tienda": "Farmacias del Ahorro"
+  },
+  {
+    "code": "HIG008",
+    "image": "",
+    "name": "Termómetro para baño",
+    "description": "Mide la temperatura del agua para mayor seguridad.",
+    "category": "Higiene",
+    "price": "100",
+    "marca": "Nûby",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "HIG009",
+    "image": "",
+    "name": "Cepillo dental de dedo para bebé",
+    "description": "Silicón suave para masajear encías y limpiar primeros dientes.",
+    "category": "Higiene",
+    "price": "35",
+    "marca": "Chicco",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "HIG010",
+    "image": "",
+    "name": "Esponja suave para baño de bebé",
+    "description": "Diseñada para no irritar la piel delicada del recién nacido.",
+    "category": "Higiene",
+    "price": "40",
+    "marca": "Infanti",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "ALIM001",
+    "image": "",
+    "name": "Biberón anticólicos 150ml",
+    "description": "Biberón con válvula anticólicos, ideal para recién nacidos.",
+    "category": "Alimentación",
+    "price": "120",
+    "marca": "Philips Avent",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "ALIM002",
+    "image": "",
+    "name": "Fórmula infantil etapa 1 (800g)",
+    "description": "Leche de fórmula para bebés de 0 a 6 meses.",
+    "category": "Alimentación",
+    "price": "390",
+    "marca": "Enfamil",
+    "tienda": "Walmart"
+  },
+  {
+    "code": "ALIM003",
+    "image": "",
+    "name": "Esterilizador de biberones eléctrico",
+    "description": "Esteriliza hasta 6 biberones en pocos minutos.",
+    "category": "Alimentación",
+    "price": "1150",
+    "marca": "Chicco",
+    "tienda": "Liverpool"
+  },
+  {
+    "code": "ALIM004",
+    "image": "",
+    "name": "Sacaleches manual",
+    "description": "Sacaleches portátil para extracción ocasional.",
+    "category": "Alimentación",
+    "price": "450",
+    "marca": "Evenflo",
+    "tienda": "Coppel"
+  },
+  {
+    "code": "ALIM005",
+    "image": "",
+    "name": "Discos absorbentes para lactancia (60 pzs)",
+    "description": "Evitan derrames durante la lactancia o extracción.",
+    "category": "Alimentación",
+    "price": "110",
+    "marca": "Medela",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "ALIM006",
+    "image": "",
+    "name": "Almohada de lactancia ergonómica",
+    "description": "Facilita la postura al amamantar y reduce tensión.",
+    "category": "Alimentación",
+    "price": "380",
+    "marca": "Boppy",
+    "tienda": "Mercado Libre"
+  },
+  {
+    "code": "ALIM007",
+    "image": "",
+    "name": "Cucharas de silicón para papilla (2 pzs)",
+    "description": "Suaves y seguras para bebés de 6 meses en adelante.",
+    "category": "Alimentación",
+    "price": "75",
+    "marca": "Munchkin",
+    "tienda": "Suburbia"
+  },
+  {
+    "code": "ALIM008",
+    "image": "",
+    "name": "Vaso entrenador antigoteo",
+    "description": "Ideal para transición del biberón al vaso.",
+    "category": "Alimentación",
+    "price": "95",
+    "marca": "Nuby",
+    "tienda": "Bodega Aurrera"
+  },
+  {
+    "code": "ALIM009",
+    "image": "",
+    "name": "Plato con ventosa antiderrames",
+    "description": "Evita que el plato se mueva durante la comida.",
+    "category": "Alimentación",
+    "price": "130",
+    "marca": "Boon",
+    "tienda": "Amazon"
+  },
+  {
+    "code": "ALIM010",
+    "image": "",
+    "name": "Silla alta para comer plegable",
+    "description": "Silla de alimentación con arnés de seguridad.",
+    "category": "Alimentación",
+    "price": "980",
+    "marca": "Prinsel",
+    "tienda": "Walmart"
+  },
+  {
     "image": "https://imgs.search.brave.com/B7kkagdcIo2h0aNWk_iTAIm2GfIhnCJmVuMjzXUf3Ys/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDErMTVlMjJ1aUwu/anBn",
     "name": "Pañales Huggies Supreme Etapa 1",
     "description": "Pañales desechables para recién nacidos, con tecnología de absorción rápida y suave para la piel del bebé.",
