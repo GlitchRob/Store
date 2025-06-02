@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Autobús A",
+    "salida": "08:30",
+    "tiempo": 90
+  },
+  {
+    "nombre": "Autobús B",
+    "salida": "10:15",
+    "tiempo": 120
+  },
+  {
+    "nombre": "Autobús C",
+    "salida": "14:00",
+    "tiempo": 60
+  }
+]
