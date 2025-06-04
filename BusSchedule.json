@@ -1,24 +1,157 @@
 [
   {
-    "name": "Autobús A",
-    "description": "Ruta A a Centro",
-    "horaSalida": "08:45"
+    "name": "R-Sanabria",
+    "description": "La Sanabria",
+    "horasalida": "6:00"
   },
   {
-    "name": "Autobús B",
-    "description": "Ruta B al Norte",
-    "horaSalida": "09:30"
+    "name": "R-Sanabria",
+    "description": "Plaza del Comercio",
+    "horasalida": "6:40"
   },
   {
-    "code": 1,
-    "name": "Salida a Irapuato",
-    "description": "Salida desde central camionera",
-    "horaSalida": "10:00"
+    "name": "R-52",
+    "description": "San Roque",
+    "horasalida": "5:30"
   },
   {
-    "code": 2,
-    "name": "Salida ",
-    "description": "Thest",
-    "horasalida": "10:15"
+    "name": "R-52",
+    "description": "Plaza del Comercio",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-52",
+    "description": "VIBA",
+    "horasalida": "5:42"
+  },
+  {
+    "name": "R-16",
+    "description": "Mariano J.García",
+    "horasalida": "5:50"
+  },
+  {
+    "name": "R-16",
+    "description": "Valenciana",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-05",
+    "description": "Col.Bernardo Cobos",
+    "horasalida": "5:40"
+  },
+  {
+    "name": "R-05",
+    "description": "Carmelitas",
+    "horasalida": "6:25"
+  },
+  {
+    "name": "R-12",
+    "description": "Mariano J.García",
+    "horasalida": "5:55"
+  },
+  {
+    "name": "R-12",
+    "description": "Plaza Cibeles",
+    "horasalida": "6:47"
+  },
+  {
+    "name": "R-07",
+    "description": "Central de Abastos",
+    "horasalida": "5:55"
+  },
+  {
+    "name": "R-07",
+    "description": "Plaza Cibeles",
+    "horasalida": "6:55"
+  },
+  {
+    "name": "R-33",
+    "description": "Plaza del Comercio",
+    "horasalida": "6:30"
+  },
+  {
+    "name": "R-33",
+    "description": "Tomelopitos",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-14",
+    "description": "Constitución deAtpatzingán",
+    "horasalida": "5:50"
+  },
+  {
+    "name": "R-14",
+    "description": "Centro (La Soledad)",
+    "horasalida": "6:35"
+  },
+  {
+    "name": "R-08",
+    "description": "Fracc.El Refugio",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-08",
+    "description": "Glorieta de Gomez Morin",
+    "horasalida": "6:45"
+  },
+  {
+    "name": "R-06",
+    "description": "Fracc.El Refugio",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-06",
+    "description": "Plaza Cibeles",
+    "horasalida": "6:20"
+  },
+  {
+    "name": "R-32 vialidad de los Reyes",
+    "description": "Col.Las Liebres",
+    "horasalida": "5:47"
+  },
+  {
+    "name": "R-32 vialidad de los Reyes",
+    "description": "CBTis",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-32 vialidad de los Reyes",
+    "description": "FONAPO",
+    "horasalida": "5:50"
+  },
+  {
+    "name": "R-32 vialidad de los Reyes",
+    "description": "Calle Abasolo e Independencia",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-32 vialidad de los Reyes",
+    "description": "ITESI",
+    "horasalida": "7:00"
+  },
+  {
+    "name": "R-32 vialidad de Casimiro Liceaga",
+    "description": "Col.Las Liebres",
+    "horasalida": "5:47"
+  },
+  {
+    "name": "R-32 vialidad de Casimiro Liceaga",
+    "description": "CBTis 65",
+    "horasalida": "6:20"
+  },
+  {
+    "name": "R-32 vialidad de Casimiro Liceaga",
+    "description": "FONAPO",
+    "horasalida": "5:50"
+  },
+  {
+    "name": "R-32 vialidad de Casimiro Liceaga",
+    "description": "Calle Abasolo e Independencia",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-32 vialidad de Casimiro Liceaga",
+    "description": "ITESI",
+    "horasalida": "7:00"
   }
 ]
