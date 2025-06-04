@@ -2,11 +2,23 @@
   {
     "name": "Autobús A",
     "description": "Ruta A a Centro",
-    "horaSalida": "13:45"
+    "horaSalida": "08:45"
   },
   {
     "name": "Autobús B",
     "description": "Ruta B al Norte",
-    "horaSalida": "14:30"
+    "horaSalida": "09:30"
+  },
+  {
+    "code": 1,
+    "name": "Salida a Irapuato",
+    "description": "Salida desde central camionera",
+    "horaSalida": "10:00"
+  },
+  {
+    "code": 2,
+    "name": "Salida ",
+    "description": "Thest",
+    "horasalida": "10:15"
   }
 ]
