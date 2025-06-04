@@ -153,5 +153,256 @@
     "name": "R-32 vialidad de Casimiro Liceaga",
     "description": "ITESI",
     "horasalida": "7:00"
+  },
+  {
+    "name": "R-29",
+    "description": "Colinas del Río II",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-29",
+    "description": "San Juanito",
+    "horasalida": "6:20"
+  },
+  {
+    "name": "R-Mungula",
+    "description": "Munguia (Acceso carretera)",
+    "horasalida": "7:30"
+  },
+  {
+    "name": "R-Mungula",
+    "description": "Centro (Templo de la Soledad)",
+    "horasalida": "8:35"
+  },
+  {
+    "name": "R-23",
+    "description": "8 de junio",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-23",
+    "description": "Primavera",
+    "horasalida": "6:05"
+  },
+  {
+    "name": "R-21",
+    "description": "Expo Fresas",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-21",
+    "description": "Las Américas",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-20",
+    "description": "Las Liebres",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-20",
+    "description": "Villas de San Cayetano",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-19",
+    "description": "Villas de San Cayetano",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-19",
+    "description": "FONAPO",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-17",
+    "description": "UCOPI-Emiliano Zapata III",
+    "horasalida": "5:55"
+  },
+  {
+    "name": "R-17",
+    "description": "CBTIS-Pte Las Américas",
+    "horasalida": "6:35"
+  },
+  {
+    "name": "R-34",
+    "description": "Purísima de Temascatio",
+    "horasalida": "6:10"
+  },
+  {
+    "name": "R-34",
+    "description": "Centro (Calle Ocampo)",
+    "horasalida": "6:54"
+  },
+  {
+    "name": "R-03+10",
+    "description": "Vista Alegre",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-03+10",
+    "description": "La Lupita",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-T3",
+    "description": "Los Fresnos",
+    "horasalida": "6:40"
+  },
+  {
+    "name": "R-T3",
+    "description": "Jardines de Irapuato",
+    "horasalida": "7:35"
+  },
+  {
+    "name": "R-03-R",
+    "description": "San José de Jorge López",
+    "horasalida": "6:40"
+  },
+  {
+    "name": "R-03-R",
+    "description": "Central Camionera",
+    "horasalida": "7:35"
+  },
+  {
+    "name": "R-30",
+    "description": "Colinas del Río II",
+    "horasalida": "6:10"
+  },
+  {
+    "name": "R-30",
+    "description": "Villas de San Cayetano",
+    "horasalida": "6:20"
+  },
+  {
+    "name": "R-01",
+    "description": "Las Carmelitas",
+    "horasalida": "6:05"
+  },
+  {
+    "name": "R-01",
+    "description": "EI CRIT",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-37-R",
+    "description": "Jardines de la Hda",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-37-R",
+    "description": "Paseo Irapuato Suburbia",
+    "horasalida": "6:30"
+  },
+  {
+    "name": "R-37",
+    "description": "Rancho Grande",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-37",
+    "description": "Quintana Roo (Centro)",
+    "horasalida": "6:25"
+  },
+  {
+    "name": "R-36",
+    "description": "San Vicente",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-36",
+    "description": "Quintana Roo(Centro)",
+    "horasalida": "7:10"
+  },
+  {
+    "name": "R-15",
+    "description": "Cuarta Brigada",
+    "horasalida": "5:50"
+  },
+  {
+    "name": "R-15",
+    "description": "Quintana Roo (Centro)",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-31",
+    "description": "Providencia de Perez",
+    "horasalida": "6:00"
+  },
+  {
+    "name": "R-31",
+    "description": "Central Camionera",
+    "horasalida": "7:00"
+  },
+  {
+    "name": "R-28",
+    "description": "San Cayetano",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-28",
+    "description": "Magisterial",
+    "horasalida": "6:33"
+  },
+  {
+    "name": "R-27",
+    "description": "Panteón de los Olivos",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-27",
+    "description": "Los Cobos",
+    "horasalida": "6:30"
+  },
+  {
+    "name": "R-26",
+    "description": "8 de junio",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-26",
+    "description": "Emiliano Zapata",
+    "horasalida": "6:12"
+  },
+  {
+    "name": "R-22+25",
+    "description": "Arandas",
+    "horasalida": "6:05"
+  },
+  {
+    "name": "R-22+25",
+    "description": "Primavera-La Lupita",
+    "horasalida": "6:10"
+  },
+  {
+    "name": "R-24",
+    "description": "Coecillo",
+    "horasalida": "6:20"
+  },
+  {
+    "name": "R-24",
+    "description": "Central Camionera",
+    "horasalida": "7:16"
+  },
+  {
+    "name": "R-18",
+    "description": "Colinas del Río",
+    "horasalida": "6:03"
+  },
+  {
+    "name": "R-18",
+    "description": "Nogalia-Villas Dorado",
+    "horasalida": "6:25"
+  },
+  {
+    "name": "R-02",
+    "description": "El Cármen",
+    "horasalida": "6:15"
+  },
+  {
+    "name": "R-02",
+    "description": "CRIT",
+    "horasalida": "6:20"
   }
+]
 ]
