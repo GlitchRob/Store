@@ -1492,6 +1492,28 @@
       "accountIndex": 3,
       "months": 60,
       "createdAt": "2025-06-12T01:52:38.186Z"
+    },
+    {
+      "id": "mbus6gkc-aaijil5ez4k",
+      "description": "PayPal*Megacable (1/1)",
+      "amount": -580,
+      "inputDate": "2025-06-13",
+      "date": "2025-06-13",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-13T12:25:31.740Z"
+    },
+    {
+      "id": "mbv0f59z-1zwmhjw6po3",
+      "description": "Recarga*bait (1/1)",
+      "amount": -60,
+      "inputDate": "2025-06-13",
+      "date": "2025-06-13",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-13T16:16:13.943Z"
     }
   ]
 }
