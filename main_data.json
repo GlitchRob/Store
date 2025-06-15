@@ -757,17 +757,6 @@
       "createdAt": "2025-06-09T14:35:15.505Z"
     },
     {
-      "id": "mbp73kj1-8roas60r5ge",
-      "description": "Gasto (1/1)",
-      "amount": -5800.26,
-      "inputDate": "2025-06-09",
-      "date": "2025-06-09",
-      "paymentDate": "2025-07-15",
-      "accountIndex": 2,
-      "months": 1,
-      "createdAt": "2025-06-09T14:36:34.093Z"
-    },
-    {
       "id": "mbp75w74-oqribrjmmee",
       "description": "Gato (1/1)",
       "amount": -2735.76,
@@ -1514,6 +1503,40 @@
       "accountIndex": 2,
       "months": 1,
       "createdAt": "2025-06-13T16:16:13.943Z"
+    },
+    {
+      "id": "mbwwc6r6-zuywthelukf",
+      "description": "Pago*hey (1/1)",
+      "amount": 1451.02,
+      "inputDate": "2025-07-15",
+      "date": "2025-07-15",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-14T23:57:29.778Z"
+    },
+    {
+      "id": "mbwwekrg-h6dcw3jm3e5",
+      "description": "Pago*coop (1/1)",
+      "amount": 486.25,
+      "inputDate": "2025-07-14",
+      "date": "2025-07-14",
+      "paymentDate": "2025-07-14",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-14T23:59:21.245Z"
+    },
+    {
+      "id": "mbxnussf-fc8x4k9adf9",
+      "description": "Adelanto (1/1)",
+      "amount": 4.47,
+      "inputDate": "2030-06-11",
+      "date": "2030-06-11",
+      "paymentDate": "2030-06-11",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-15T12:47:47.775Z"
     }
   ]
+}
 }
