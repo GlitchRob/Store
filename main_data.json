@@ -15,11 +15,11 @@
       "createdAt": "mbp690gy-e6ccuoirhb"
     },
     {
-      "name": "Hey",
+      "name": "Hey banco",
       "limit": 47,
       "cutDate": "2025-06-25",
       "payDate": "2025-06-15",
-      "createdAt": "mbp6fjev-17vobnn3y22"
+      "createdAt": "mby6nhfo-f6iwiwk8gd4"
     },
     {
       "name": "Coop",
@@ -27,12 +27,26 @@
       "cutDate": "2025-06-11",
       "payDate": "2025-06-11",
       "createdAt": "mbsq42jj-z2fsvamizq"
+    },
+    {
+      "name": "Crédito nómina Inbursa",
+      "limit": 0,
+      "cutDate": "2025-06-21",
+      "payDate": "2025-06-21",
+      "createdAt": "mbz5mnv8-6l8vi4i2k4c"
+    },
+    {
+      "name": "Nu",
+      "limit": 31,
+      "cutDate": "2025-06-17",
+      "payDate": "2025-06-27",
+      "createdAt": "mc0pse39-34zcxi4sa5y"
     }
   ],
   "transactions": [
     {
       "id": "mbp5qqce-djgzigx41at",
-      "description": "Prestamo (1/29)",
+      "description": "Prestamo (yotepresto) (1/29)",
       "amount": -3047.1699999999996,
       "inputDate": "2025-05-23",
       "date": "2025-05-23",
@@ -1516,17 +1530,6 @@
       "createdAt": "2025-06-14T23:57:29.778Z"
     },
     {
-      "id": "mbwwekrg-h6dcw3jm3e5",
-      "description": "Pago*coop (1/1)",
-      "amount": 486.25,
-      "inputDate": "2025-07-14",
-      "date": "2025-07-14",
-      "paymentDate": "2025-07-14",
-      "accountIndex": 3,
-      "months": 1,
-      "createdAt": "2025-06-14T23:59:21.245Z"
-    },
-    {
       "id": "mbxnussf-fc8x4k9adf9",
       "description": "Adelanto (1/1)",
       "amount": 4.47,
@@ -1536,6 +1539,61 @@
       "accountIndex": 3,
       "months": 1,
       "createdAt": "2025-06-15T12:47:47.775Z"
+    },
+    {
+      "id": "mbz1t2pr-rcfyr2ien9",
+      "description": "Compra*mi bodega Aurrera (1/1)",
+      "amount": -58,
+      "inputDate": "2025-06-15",
+      "date": "2025-06-15",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-16T12:06:08.127Z"
+    },
+    {
+      "id": "mbz1uan9-a02tr5d341k",
+      "description": "Compra*mi bodega Aurrera (1/1)",
+      "amount": -200,
+      "inputDate": "2025-06-15",
+      "date": "2025-06-15",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-16T12:07:05.061Z"
+    },
+    {
+      "id": "mbz2q0tj-0pbfgvkmsq2f",
+      "description": "Gas*miniestaccueramaro (1/1)",
+      "amount": -25,
+      "inputDate": "2025-06-14",
+      "date": "2025-06-14",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-16T12:31:45.319Z"
+    },
+    {
+      "id": "mbz2sjmy-g610w2by8f5",
+      "description": "Pago*coop (1/1)",
+      "amount": 486.25,
+      "inputDate": "2025-07-14",
+      "date": "2025-07-14",
+      "paymentDate": "2025-07-14",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-16T12:33:43.018Z"
+    },
+    {
+      "id": "mc0pod4g-jolm189kdn",
+      "description": "Compra*playstore (1/1)",
+      "amount": -170,
+      "inputDate": "2025-06-19",
+      "date": "2025-06-19",
+      "paymentDate": "2025-07-27",
+      "accountIndex": 5,
+      "months": 1,
+      "createdAt": "2025-06-17T16:02:05.296Z"
     }
   ]
 }
