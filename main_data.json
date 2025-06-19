@@ -41,12 +41,19 @@
       "cutDate": "2025-06-17",
       "payDate": "2025-06-27",
       "createdAt": "mc0pse39-34zcxi4sa5y"
+    },
+    {
+      "name": "Test",
+      "limit": 2,
+      "cutDate": "2025-06-19",
+      "payDate": "2025-06-19",
+      "createdAt": "mc3r1alz-zl742gn3fc"
     }
   ],
   "transactions": [
     {
       "id": "mbp5qqce-djgzigx41at",
-      "description": "Prestamo (yotepresto) (1/29)",
+      "description": "Préstamo (1/29)",
       "amount": -3047.1699999999996,
       "inputDate": "2025-05-23",
       "date": "2025-05-23",
@@ -585,7 +592,7 @@
     },
     {
       "id": "mbp6b46z-ugc9eo3pvw",
-      "description": "Prestamo nu (1/1)",
+      "description": "Préstamo",
       "amount": -316.62,
       "inputDate": "2025-05-09",
       "date": "2025-05-09",
@@ -761,7 +768,7 @@
     },
     {
       "id": "mbp71vw1-51mnpuipvxq",
-      "description": "Gasto (1/1)",
+      "description": "Gasto*Ajuste (1/1)",
       "amount": -2233.68,
       "inputDate": "2025-06-11",
       "date": "2025-06-11",
@@ -838,7 +845,7 @@
     },
     {
       "id": "mbsq4pbe-57v22yszml9",
-      "description": "Prestamo coop (1/60)",
+      "description": "Préstamo (1/60)",
       "amount": -1944.99,
       "inputDate": "2025-07-11",
       "date": "2025-07-11",
@@ -1531,7 +1538,7 @@
     },
     {
       "id": "mbxnussf-fc8x4k9adf9",
-      "description": "Adelanto (1/1)",
+      "description": "Adelanto",
       "amount": 4.47,
       "inputDate": "2030-06-11",
       "date": "2030-06-11",
@@ -1594,6 +1601,17 @@
       "accountIndex": 5,
       "months": 1,
       "createdAt": "2025-06-17T16:02:05.296Z"
+    },
+    {
+      "id": "mc1jjpur-q5v0v72tbno",
+      "description": "Supermercado*bodega Aurrera cueramaro (1/1)",
+      "amount": -142.2,
+      "inputDate": "2025-06-17",
+      "date": "2025-06-17",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-18T05:58:16.995Z"
     }
   ]
 }
