@@ -10,9 +10,9 @@
     {
       "name": "Nu préstamo",
       "limit": 31,
-      "cutDate": "2025-06-06",
+      "cutDate": "2025-06-04",
       "payDate": "2025-06-28",
-      "createdAt": "mbp690gy-e6ccuoirhb"
+      "createdAt": "mc45ewk0-h03ibm706nv"
     },
     {
       "name": "Hey banco",
@@ -385,8 +385,8 @@
       "id": "mbp67x1v-vjwfalg1r49",
       "description": "Prestamo (2/19)",
       "amount": -633.25,
-      "inputDate": "2025-08-09",
-      "date": "2025-08-09",
+      "inputDate": "2025-08-28",
+      "date": "2025-08-28",
       "paymentDate": "2025-09-28",
       "accountIndex": 1,
       "months": 19,
@@ -1612,6 +1612,196 @@
       "accountIndex": 2,
       "months": 1,
       "createdAt": "2025-06-18T05:58:16.995Z"
+    },
+    {
+      "id": "mc3tqidl-9tsx8mowyjt",
+      "recurringId": "mc3tqidl-l6cilgfhz2m",
+      "description": "Ajuste** (1/1)",
+      "amount": -1177.38,
+      "inputDate": "2025-06-19",
+      "date": "2025-06-19",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-19T20:19:02.409Z"
+    },
+    {
+      "id": "mc4ripbt-s300mul2cm",
+      "recurringId": "mc4ripbt-m4h37um9b28",
+      "description": "Compra*tiendas bara (1/1)",
+      "amount": -32.5,
+      "inputDate": "2025-06-19",
+      "date": "2025-06-19",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-20T12:04:45.113Z"
+    },
+    {
+      "id": "17504260959380.9043779292889743",
+      "description": "Pago junio de 2025",
+      "amount": 3047.17,
+      "date": "2025-06-01",
+      "inputDate": "2025-06-01",
+      "paymentDate": "2025-06-01",
+      "accountIndex": 0,
+      "months": 1,
+      "createdAt": "2025-06-20T13:28:15.940Z"
+    },
+    {
+      "id": "17504261932610.9342484001158184",
+      "description": "Pago junio de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-06-01",
+      "inputDate": "2029-06-01",
+      "paymentDate": "2029-06-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.262Z"
+    },
+    {
+      "id": "17504261932620.18597700037137188",
+      "description": "Pago julio de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-07-01",
+      "inputDate": "2029-07-01",
+      "paymentDate": "2029-07-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.262Z"
+    },
+    {
+      "id": "17504261932620.6159151033974379",
+      "description": "Pago agosto de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-08-01",
+      "inputDate": "2029-08-01",
+      "paymentDate": "2029-08-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.262Z"
+    },
+    {
+      "id": "17504261932620.351316681071851",
+      "description": "Pago septiembre de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-09-01",
+      "inputDate": "2029-09-01",
+      "paymentDate": "2029-09-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.262Z"
+    },
+    {
+      "id": "17504261932620.8652349830428492",
+      "description": "Pago octubre de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-10-01",
+      "inputDate": "2029-10-01",
+      "paymentDate": "2029-10-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.263Z"
+    },
+    {
+      "id": "17504261932630.9928829047170855",
+      "description": "Pago noviembre de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-11-01",
+      "inputDate": "2029-11-01",
+      "paymentDate": "2029-11-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.263Z"
+    },
+    {
+      "id": "17504261932630.4318637015005017",
+      "description": "Pago diciembre de 2029",
+      "amount": 4.165384615384616,
+      "date": "2029-12-01",
+      "inputDate": "2029-12-01",
+      "paymentDate": "2029-12-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.264Z"
+    },
+    {
+      "id": "17504261932640.6293173067855681",
+      "description": "Pago enero de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-01-01",
+      "inputDate": "2030-01-01",
+      "paymentDate": "2030-01-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.264Z"
+    },
+    {
+      "id": "17504261932640.8248893156414505",
+      "description": "Pago febrero de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-02-01",
+      "inputDate": "2030-02-01",
+      "paymentDate": "2030-02-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.264Z"
+    },
+    {
+      "id": "17504261932640.574891552847793",
+      "description": "Pago marzo de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-03-01",
+      "inputDate": "2030-03-01",
+      "paymentDate": "2030-03-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.265Z"
+    },
+    {
+      "id": "17504261932650.5807862079993985",
+      "description": "Pago abril de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-04-01",
+      "inputDate": "2030-04-01",
+      "paymentDate": "2030-04-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.265Z"
+    },
+    {
+      "id": "17504261932650.20870699870216858",
+      "description": "Pago mayo de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-05-01",
+      "inputDate": "2030-05-01",
+      "paymentDate": "2030-05-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.265Z"
+    },
+    {
+      "id": "17504261932650.8632367240478647",
+      "description": "Pago junio de 2030",
+      "amount": 4.165384615384616,
+      "date": "2030-06-01",
+      "inputDate": "2030-06-01",
+      "paymentDate": "2030-06-01",
+      "accountIndex": 3,
+      "months": 1,
+      "createdAt": "2025-06-20T13:29:53.265Z"
+    },
+    {
+      "id": "mc597tmv-lprgnyvt5",
+      "recurringId": "mc597tmu-1s2zo8qk8ue",
+      "description": "Gas*GAS EXPR NIETO (1/1)",
+      "amount": -308.84,
+      "inputDate": "2025-06-20",
+      "date": "2025-06-20",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-20T20:20:10.567Z"
     }
   ]
 }
