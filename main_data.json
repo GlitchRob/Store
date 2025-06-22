@@ -1641,9 +1641,9 @@
       "id": "17504260959380.9043779292889743",
       "description": "Pago junio de 2025",
       "amount": 3047.17,
-      "date": "2025-06-01",
-      "inputDate": "2025-06-01",
-      "paymentDate": "2025-06-01",
+      "date": "2025-06-21",
+      "inputDate": "2025-06-21",
+      "paymentDate": "2025-06-21",
       "accountIndex": 0,
       "months": 1,
       "createdAt": "2025-06-20T13:28:15.940Z"
@@ -1802,6 +1802,18 @@
       "accountIndex": 2,
       "months": 1,
       "createdAt": "2025-06-20T20:20:10.567Z"
+    },
+    {
+      "id": "mc7ppofg-zvnbomqwavk",
+      "recurringId": "mc7ppoff-cty3l5w91gn",
+      "description": "Compra*Abarrotes la tiendita (1/1)",
+      "amount": -425.18,
+      "inputDate": "2025-06-21",
+      "date": "2025-06-21",
+      "paymentDate": "2025-07-15",
+      "accountIndex": 2,
+      "months": 1,
+      "createdAt": "2025-06-22T13:37:29.836Z"
     }
   ]
 }
