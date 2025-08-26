@@ -1,8 +1,674 @@
-{
-  "id": 1756179433997,
-  "title": "Dhh",
-  "price": 99,
-  "description": "Bbvv",
-  "category": "Bbb",
-  "image": "https://cdn.tailwindcss.com"
-}
+[
+  {
+    "title": "Smartphone Modelo X",
+    "price": 8999.99,
+    "description": "El último smartphone con cámara de alta resolución y batería de larga duración.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/smartphone.jpg"
+  },
+  {
+    "title": "Laptop Ultra Slim",
+    "price": 15499.50,
+    "description": "Laptop ligera y potente, ideal para trabajo y entretenimiento.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/laptop.jpg"
+  },
+  {
+    "title": "Playera de Algodón Básica",
+    "price": 299.00,
+    "description": "Playera suave de algodón 100%, disponible en varios colores.",
+    "category": "Ropa",
+    "image": "https://example.com/images/playera.jpg"
+  },
+  {
+    "title": "Jeans de Mezclilla Clásicos",
+    "price": 799.99,
+    "description": "Pantalones de mezclilla de corte recto para un look casual.",
+    "category": "Ropa",
+    "image": "https://example.com/images/jeans.jpg"
+  },
+  {
+    "title": "Cafetera de Goteo Programable",
+    "price": 1250.00,
+    "description": "Prepara hasta 12 tazas de café y programa la hora de colado.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/cafetera.jpg"
+  },
+  {
+    "title": "Juego de Sartenes Antiadherentes",
+    "price": 999.50,
+    "description": "Set de 3 sartenes de diferentes tamaños con recubrimiento antiadherente.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/sartenes.jpg"
+  },
+  {
+    "title": "Tenis para Correr",
+    "price": 1899.00,
+    "description": "Calzado deportivo con amortiguación avanzada para corredores.",
+    "category": "Deportes",
+    "image": "https://example.com/images/tenis.jpg"
+  },
+  {
+    "title": "Tapete de Yoga Antideslizante",
+    "price": 650.00,
+    "description": "Tapete ecológico que ofrece un agarre superior durante tu práctica.",
+    "category": "Deportes",
+    "image": "https://example.com/images/tapete-yoga.jpg"
+  },
+  {
+    "title": "Crema Hidratante Facial",
+    "price": 450.75,
+    "description": "Fórmula con ácido hialurónico para una hidratación profunda por 24 horas.",
+    "category": "Belleza",
+    "image": "https://example.com/images/crema-facial.jpg"
+  },
+  {
+    "title": "Cien Años de Soledad",
+    "price": 320.00,
+    "description": "La obra maestra de Gabriel García Márquez, edición de pasta blanda.",
+    "category": "Libros",
+    "image": "https://example.com/images/cien-anos.jpg"
+  },
+  {
+    "title": "Audífonos Inalámbricos con Cancelación de Ruido",
+    "price": 2599.00,
+    "description": "Sumérgete en tu música con la tecnología de cancelación de ruido activa.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/audifonos.jpg"
+  },
+  {
+    "title": "Smartwatch con Monitor de Frecuencia Cardíaca",
+    "price": 3200.50,
+    "description": "Reloj inteligente que monitorea tu actividad física y notificaciones.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/smartwatch.jpg"
+  },
+  {
+    "title": "Sudadera con Capucha",
+    "price": 850.00,
+    "description": "Sudadera cómoda de felpa, ideal para un estilo urbano.",
+    "category": "Ropa",
+    "image": "https://example.com/images/sudadera.jpg"
+  },
+  {
+    "title": "Licuadora de Alta Potencia",
+    "price": 1999.00,
+    "description": "Licuadora con motor de 1200W para smoothies, sopas y más.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/licuadora.jpg"
+  },
+  {
+    "title": "Mancuernas Ajustables",
+    "price": 2300.00,
+    "description": "Set de mancuernas que permite ajustar el peso de 2 a 20 kg.",
+    "category": "Deportes",
+    "image": "https://example.com/images/mancuernas.jpg"
+  },
+  {
+    "title": "Protector Solar SPF 50+",
+    "price": 380.90,
+    "description": "Protección solar de amplio espectro contra rayos UVA y UVB.",
+    "category": "Belleza",
+    "image": "https://example.com/images/protector-solar.jpg"
+  },
+  {
+    "title": "El Principito",
+    "price": 199.00,
+    "description": "Un clásico de la literatura universal por Antoine de Saint-Exupéry.",
+    "category": "Libros",
+    "image": "https://example.com/images/principito.jpg"
+  },
+  {
+    "title": "Teclado Mecánico para Gaming",
+    "price": 1750.00,
+    "description": "Teclado con switches mecánicos y retroiluminación RGB.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/teclado.jpg"
+  },
+  {
+    "title": "LEGO Classic Caja de Ladrillos Creativos",
+    "price": 899.00,
+    "description": "Fomenta la creatividad con este set de 790 piezas de LEGO.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/lego.jpg"
+  },
+  {
+    "title": "Vestido de Verano Floral",
+    "price": 950.50,
+    "description": "Vestido ligero y fresco con estampado floral, perfecto para el calor.",
+    "category": "Ropa",
+    "image": "https://example.com/images/vestido.jpg"
+  },
+  {
+    "title": "Freidora de Aire 5L",
+    "price": 2100.00,
+    "description": "Cocina tus alimentos favoritos con menos aceite.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/freidora.jpg"
+  },
+  {
+    "title": "Bicicleta de Montaña Rodada 29",
+    "price": 7500.00,
+    "description": "Bicicleta con cuadro de aluminio y 21 velocidades.",
+    "category": "Deportes",
+    "image": "https://example.com/images/bicicleta.jpg"
+  },
+  {
+    "title": "Serum con Vitamina C",
+    "price": 520.00,
+    "description": "Serum antioxidante que ilumina y unifica el tono de la piel.",
+    "category": "Belleza",
+    "image": "https://example.com/images/serum.jpg"
+  },
+  {
+    "title": "Rayuela de Julio Cortázar",
+    "price": 350.00,
+    "description": "Novela icónica del boom latinoamericano.",
+    "category": "Libros",
+    "image": "https://example.com/images/rayuela.jpg"
+  },
+  {
+    "title": "Monitor Curvo 27 pulgadas",
+    "price": 6500.00,
+    "description": "Monitor con resolución QHD para una experiencia inmersiva.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/monitor.jpg"
+  },
+  {
+    "title": "Juego de Mesa Catan",
+    "price": 980.00,
+    "description": "El clásico juego de estrategia de comercio y colonización.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/catan.jpg"
+  },
+  {
+    "title": "Chamarra Impermeable",
+    "price": 1300.00,
+    "description": "Chamarra ligera y resistente al agua, ideal para la lluvia.",
+    "category": "Ropa",
+    "image": "https://example.com/images/chamarra.jpg"
+  },
+  {
+    "title": "Robot Aspiradora Inteligente",
+    "price": 5500.00,
+    "description": "Limpia tus pisos automáticamente, controlable desde tu smartphone.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/robot-aspiradora.jpg"
+  },
+  {
+    "title": "Balón de Fútbol No. 5",
+    "price": 450.00,
+    "description": "Balón de tamaño oficial para entrenamiento y partidos.",
+    "category": "Deportes",
+    "image": "https://example.com/images/balon.jpg"
+  },
+  {
+    "title": "Paleta de Sombras de Ojos",
+    "price": 720.00,
+    "description": "Paleta con 12 tonos neutros y vibrantes de alta pigmentación.",
+    "category": "Belleza",
+    "image": "https://example.com/images/sombras.jpg"
+  },
+  {
+    "title": "La Sombra del Viento",
+    "price": 380.00,
+    "description": "Best seller de Carlos Ruiz Zafón.",
+    "category": "Libros",
+    "image": "https://example.com/images/sombra-viento.jpg"
+  },
+  {
+    "title": "Bocina Bluetooth Portátil",
+    "price": 1299.00,
+    "description": "Bocina resistente al agua con hasta 10 horas de batería.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/bocina.jpg"
+  },
+  {
+    "title": "Rompecabezas de 1000 piezas",
+    "price": 400.00,
+    "description": "Desafía tu mente con este rompecabezas de un paisaje impresionante.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/rompecabezas.jpg"
+  },
+  {
+    "title": "Pantalones Deportivos Jogger",
+    "price": 699.00,
+    "description": "Pantalones cómodos de corte moderno para el gimnasio o el día a día.",
+    "category": "Ropa",
+    "image": "https://example.com/images/jogger.jpg"
+  },
+  {
+    "title": "Horno de Microondas",
+    "price": 1800.00,
+    "description": "Horno de 1.1 pies cúbicos con panel digital y varias funciones.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/microondas.jpg"
+  },
+  {
+    "title": "Cuerda para Saltar de Alta Velocidad",
+    "price": 250.00,
+    "description": "Ideal para cardio, crossfit y mejorar la coordinación.",
+    "category": "Deportes",
+    "image": "https://example.com/images/cuerda-saltar.jpg"
+  },
+  {
+    "title": "Set de Brochas de Maquillaje",
+    "price": 550.00,
+    "description": "Juego de 10 brochas profesionales para rostro y ojos.",
+    "category": "Belleza",
+    "image": "https://example.com/images/brochas.jpg"
+  },
+  {
+    "title": "El Alquimista",
+    "price": 280.00,
+    "description": "La inspiradora novela de Paulo Coelho.",
+    "category": "Libros",
+    "image": "https://example.com/images/alquimista.jpg"
+  },
+  {
+    "title": "Cámara de Seguridad WiFi",
+    "price": 1500.00,
+    "description": "Vigila tu hogar desde cualquier lugar con visión nocturna.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/camara.jpg"
+  },
+  {
+    "title": "Muñeca de Moda",
+    "price": 600.00,
+    "description": "Muñeca articulada con varios accesorios y conjuntos de ropa.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/muneca.jpg"
+  },
+  {
+    "title": "Calcetines Deportivos (Pack de 3)",
+    "price": 220.00,
+    "description": "Calcetines de tobillo con soporte en el arco.",
+    "category": "Ropa",
+    "image": "https://example.com/images/calcetines.jpg"
+  },
+  {
+    "title": "Batería de Cocina de Acero Inoxidable",
+    "price": 3200.00,
+    "description": "Juego completo de 8 piezas que incluye ollas y cacerolas.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/bateria-cocina.jpg"
+  },
+  {
+    "title": "Guantes de Boxeo",
+    "price": 850.00,
+    "description": "Guantes de 12 oz para entrenamiento y sparring.",
+    "category": "Deportes",
+    "image": "https://example.com/images/guantes-box.jpg"
+  },
+  {
+    "title": "Limpiador Facial Suave",
+    "price": 310.00,
+    "description": "Gel limpiador para todo tipo de piel, remueve impurezas sin resecar.",
+    "category": "Belleza",
+    "image": "https://example.com/images/limpiador.jpg"
+  },
+  {
+    "title": "1984 de George Orwell",
+    "price": 250.00,
+    "description": "La famosa novela distópica sobre la vigilancia y el control.",
+    "category": "Libros",
+    "image": "https://example.com/images/1984.jpg"
+  },
+  {
+    "title": "Disco Duro Externo 1TB",
+    "price": 1350.00,
+    "description": "Almacena y respalda tus archivos importantes con conexión USB 3.0.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/disco-duro.jpg"
+  },
+  {
+    "title": "Pista de Carreras de Juguete",
+    "price": 1200.00,
+    "description": "Pista flexible con dos coches de carrera incluidos.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/pista-carreras.jpg"
+  },
+  {
+    "title": "Gorra de Béisbol",
+    "price": 350.00,
+    "description": "Gorra ajustable con logo bordado.",
+    "category": "Ropa",
+    "image": "https://example.com/images/gorra.jpg"
+  },
+  {
+    "title": "Juego de Cuchillos de Chef",
+    "price": 1600.00,
+    "description": "Set de 5 cuchillos de acero alemán con bloque de madera.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/cuchillos.jpg"
+  },
+  {
+    "title": "Termo de Acero Inoxidable",
+    "price": 500.00,
+    "description": "Mantiene tus bebidas frías por 24 horas o calientes por 12.",
+    "category": "Deportes",
+    "image": "https://example.com/images/termo.jpg"
+  },
+  {
+    "title": "Mascarilla de Arcilla Purificante",
+    "price": 290.00,
+    "description": "Mascarilla facial para desintoxicar los poros y controlar el brillo.",
+    "category": "Belleza",
+    "image": "https://example.com/images/mascarilla.jpg"
+  },
+  {
+    "title": "El Señor de los Anillos",
+    "price": 800.00,
+    "description": "La trilogía completa de J.R.R. Tolkien en un solo volumen.",
+    "category": "Libros",
+    "image": "https://example.com/images/esdla.jpg"
+  },
+  {
+    "title": "Tableta Gráfica para Dibujo",
+    "price": 2200.00,
+    "description": "Ideal para artistas digitales y diseñadores, con lápiz sensible a la presión.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/tableta-grafica.jpg"
+  },
+  {
+    "title": "Set de Arte para Niños",
+    "price": 450.00,
+    "description": "Maletín con crayones, colores, acuarelas y más.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/set-arte.jpg"
+  },
+  {
+    "title": "Bufanda de Lana",
+    "price": 480.00,
+    "description": "Bufanda suave y cálida para el invierno.",
+    "category": "Ropa",
+    "image": "https://example.com/images/bufanda.jpg"
+  },
+  {
+    "title": "Purificador de Aire",
+    "price": 3500.00,
+    "description": "Elimina el 99.9% de alérgenos y contaminantes del aire.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/purificador.jpg"
+  },
+  {
+    "title": "Mochila Deportiva",
+    "price": 950.00,
+    "description": "Mochila con múltiples compartimentos, incluye espacio para laptop.",
+    "category": "Deportes",
+    "image": "https://example.com/images/mochila.jpg"
+  },
+  {
+    "title": "Delineador de Ojos Líquido",
+    "price": 230.00,
+    "description": "Delineador a prueba de agua con punta de precisión.",
+    "category": "Belleza",
+    "image": "https://example.com/images/delineador.jpg"
+  },
+  {
+    "title": "Don Quijote de la Mancha",
+    "price": 420.00,
+    "description": "Edición conmemorativa de la obra cumbre de Miguel de Cervantes.",
+    "category": "Libros",
+    "image": "https://example.com/images/quijote.jpg"
+  },
+  {
+    "title": "Router WiFi 6",
+    "price": 2800.00,
+    "description": "Navega a máxima velocidad con la última tecnología WiFi.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/router.jpg"
+  },
+  {
+    "title": "Dron con Cámara 4K",
+    "price": 6000.00,
+    "description": "Captura videos aéreos impresionantes con este dron fácil de volar.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/dron.jpg"
+  },
+  {
+    "title": "Sandalias de Piel",
+    "price": 890.00,
+    "description": "Sandalias cómodas y elegantes para uso diario.",
+    "category": "Ropa",
+    "image": "https://example.com/images/sandalias.jpg"
+  },
+  {
+    "title": "Máquina para Hacer Pasta",
+    "price": 1400.00,
+    "description": "Prepara pasta fresca en casa de forma sencilla.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/maquina-pasta.jpg"
+  },
+  {
+    "title": "Pelota de Pilates",
+    "price": 380.00,
+    "description": "Balón de ejercicio para mejorar el equilibrio y la fuerza.",
+    "category": "Deportes",
+    "image": "https://example.com/images/pelota-pilates.jpg"
+  },
+  {
+    "title": "Lápiz Labial Mate",
+    "price": 300.00,
+    "description": "Labial de larga duración con acabado mate aterciopelado.",
+    "category": "Belleza",
+    "image": "https://example.com/images/labial.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "price": 290.00,
+    "description": "La novela de Ray Bradbury sobre un futuro donde los libros están prohibidos.",
+    "category": "Libros",
+    "image": "https://example.com/images/fahrenheit.jpg"
+  },
+  {
+    "title": "Power Bank 20000mAh",
+    "price": 950.00,
+    "description": "Batería externa para cargar tus dispositivos varias veces.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/powerbank.jpg"
+  },
+  {
+    "title": "Coche a Control Remoto",
+    "price": 750.00,
+    "description": "Vehículo todoterreno que alcanza altas velocidades.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/coche-rc.jpg"
+  },
+  {
+    "title": "Cinturón de Cuero",
+    "price": 550.00,
+    "description": "Cinturón reversible de cuero genuino.",
+    "category": "Ropa",
+    "image": "https://example.com/images/cinturon.jpg"
+  },
+  {
+    "title": "Tostador de Pan para 2 Rebanadas",
+    "price": 800.00,
+    "description": "Tostador con ranuras anchas y varios niveles de tostado.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/tostador.jpg"
+  },
+  {
+    "title": "Bandas de Resistencia (Set de 5)",
+    "price": 420.00,
+    "description": "Set de ligas con diferentes niveles de resistencia para ejercitar todo el cuerpo.",
+    "category": "Deportes",
+    "image": "https://example.com/images/bandas-resistencia.jpg"
+  },
+  {
+    "title": "Base de Maquillaje Fluida",
+    "price": 650.00,
+    "description": "Base de cobertura media con acabado natural y larga duración.",
+    "category": "Belleza",
+    "image": "https://example.com/images/base-maquillaje.jpg"
+  },
+  {
+    "title": "El Hobbit",
+    "price": 310.00,
+    "description": "La precuela de la épica saga de El Señor de los Anillos.",
+    "category": "Libros",
+    "image": "https://example.com/images/hobbit.jpg"
+  },
+  {
+    "title": "Mouse Inalámbrico Ergonómico",
+    "price": 600.00,
+    "description": "Diseñado para la comodidad durante largas horas de uso.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/mouse.jpg"
+  },
+  {
+    "title": "Figuras de Acción (Pack de 2)",
+    "price": 500.00,
+    "description": "Set de dos superhéroes articulados para coleccionar.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/figuras-accion.jpg"
+  },
+  {
+    "title": "Suéter de Punto",
+    "price": 980.00,
+    "description": "Suéter de cuello alto, perfecto para climas fríos.",
+    "category": "Ropa",
+    "image": "https://example.com/images/sueter.jpg"
+  },
+  {
+    "title": "Plancha de Vapor",
+    "price": 1100.00,
+    "description": "Plancha con suela de cerámica y potente golpe de vapor.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/plancha.jpg"
+  },
+  {
+    "title": "Rueda Abdominal",
+    "price": 350.00,
+    "description": "Fortalece tu core con esta rueda de ejercicio.",
+    "category": "Deportes",
+    "image": "https://example.com/images/rueda-abdominal.jpg"
+  },
+  {
+    "title": "Enchinador de Pestañas",
+    "price": 180.00,
+    "description": "Rizador de pestañas para una curvatura perfecta y duradera.",
+    "category": "Belleza",
+    "image": "https://example.com/images/enchinador.jpg"
+  },
+  {
+    "title": "Crimen y Castigo",
+    "price": 330.00,
+    "description": "La novela psicológica de Fiódor Dostoyevski.",
+    "category": "Libros",
+    "image": "https://example.com/images/crimen-castigo.jpg"
+  },
+  {
+    "title": "Proyector Portátil HD",
+    "price": 4500.00,
+    "description": "Convierte cualquier lugar en una sala de cine.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/proyector.jpg"
+  },
+  {
+    "title": "Guitarra Acústica para Principiantes",
+    "price": 1800.00,
+    "description": "Incluye funda, afinador y plumillas.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/guitarra.jpg"
+  },
+  {
+    "title": "Traje de Baño de una Pieza",
+    "price": 850.00,
+    "description": "Diseño moderno con control de abdomen.",
+    "category": "Ropa",
+    "image": "https://example.com/images/traje-bano.jpg"
+  },
+  {
+    "title": "Vajilla de Cerámica para 4 personas",
+    "price": 2500.00,
+    "description": "Set de 16 piezas con diseño artesanal.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/vajilla.jpg"
+  },
+  {
+    "title": "Toalla de Microfibra",
+    "price": 320.00,
+    "description": "Toalla de secado rápido, compacta y ligera, ideal para el gimnasio o viajes.",
+    "category": "Deportes",
+    "image": "https://example.com/images/toalla-microfibra.jpg"
+  },
+  {
+    "title": "Máscara de Pestañas Volumen Extremo",
+    "price": 280.00,
+    "description": "Aporta volumen y longitud a tus pestañas al instante.",
+    "category": "Belleza",
+    "image": "https://example.com/images/mascara-pestanas.jpg"
+  },
+  {
+    "title": "Sapiens: De animales a dioses",
+    "price": 450.00,
+    "description": "Un breve recorrido por la historia de la humanidad por Yuval Noah Harari.",
+    "category": "Libros",
+    "image": "https://example.com/images/sapiens.jpg"
+  },
+  {
+    "title": "Kindle Paperwhite",
+    "price": 2799.00,
+    "description": "Lector de libros electrónicos con pantalla de alta resolución y resistente al agua.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/kindle.jpg"
+  },
+  {
+    "title": "Patines en Línea Ajustables",
+    "price": 1600.00,
+    "description": "Patines que se ajustan a diferentes tallas, ideales para niños y adolescentes.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/patines.jpg"
+  },
+  {
+    "title": "Blusa de Seda",
+    "price": 1200.00,
+    "description": "Blusa elegante de manga larga, perfecta para ocasiones formales.",
+    "category": "Ropa",
+    "image": "https://example.com/images/blusa.jpg"
+  },
+  {
+    "title": "Organizador de Especias Giratorio",
+    "price": 450.00,
+    "description": "Mantén tus especias ordenadas y al alcance de la mano.",
+    "category": "Hogar y Cocina",
+    "image": "https://example.com/images/especiero.jpg"
+  },
+  {
+    "title": "Reloj Deportivo con GPS",
+    "price": 3800.00,
+    "description": "Monitorea tus rutas de carrera, ciclismo y natación.",
+    "category": "Deportes",
+    "image": "https://example.com/images/reloj-gps.jpg"
+  },
+  {
+    "title": "Esponja de Maquillaje",
+    "price": 150.00,
+    "description": "Para una aplicación uniforme y sin marcas de bases y correctores.",
+    "category": "Belleza",
+    "image": "https://example.com/images/esponja.jpg"
+  },
+  {
+    "title": "Los Juegos del Hambre",
+    "price": 340.00,
+    "description": "La primera novela de la exitosa trilogía de Suzanne Collins.",
+    "category": "Libros",
+    "image": "https://example.com/images/juegos-hambre.jpg"
+  },
+  {
+    "title": "Webcam Full HD 1080p",
+    "price": 900.00,
+    "description": "Cámara web con micrófono integrado para videoconferencias.",
+    "category": "Electrónicos",
+    "image": "https://example.com/images/webcam.jpg"
+  },
+  {
+    "title": "Peluche Gigante de Oso",
+    "price": 1500.00,
+    "description": "Oso de peluche de 1 metro de altura, increíblemente suave.",
+    "category": "Juguetes",
+    "image": "https://example.com/images/oso-peluche.jpg"
+  }
+]
